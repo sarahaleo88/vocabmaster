@@ -1,0 +1,25 @@
+{
+  "name": "vocabmaster",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest run",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4",
+    "vitest": "^3.0.5"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.1",
+    "@capacitor/cli": "^8.0.1",
+    "@capacitor/core": "^8.0.1",
+    "idb": "^8.0.3"
+  },
+  "overrides": {
+    "tar": "^7.5.6"
+  }
+}

@@ -1,0 +1,8012 @@
+[
+    {
+        "word": "time",
+        "translation": "时间",
+        "pronunciation": "/taɪm/",
+        "example": "What time is it?",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "year",
+        "translation": "年",
+        "pronunciation": "/jɪr/",
+        "example": "Happy New Year!",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "people",
+        "translation": "人；人们",
+        "pronunciation": "/ˈpiːpl/",
+        "example": "There are many people in the park.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "way",
+        "translation": "方式；道路",
+        "pronunciation": "/weɪ/",
+        "example": "This is the best way to do it.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "day",
+        "translation": "天；白天",
+        "pronunciation": "/deɪ/",
+        "example": "Have a nice day!",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "man",
+        "translation": "男人",
+        "pronunciation": "/mæn/",
+        "example": "He is a kind man.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "thing",
+        "translation": "事情；东西",
+        "pronunciation": "/θɪŋ/",
+        "example": "Pack your things.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "woman",
+        "translation": "女人",
+        "pronunciation": "/ˈwʊmən/",
+        "example": "She is a successful woman.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "life",
+        "translation": "生活；生命",
+        "pronunciation": "/laɪf/",
+        "example": "Life is beautiful.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "child",
+        "translation": "孩子",
+        "pronunciation": "/tʃaɪld/",
+        "example": "The child is playing.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "world",
+        "translation": "世界",
+        "pronunciation": "/wɜːrld/",
+        "example": "Travel around the world.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "school",
+        "translation": "学校",
+        "pronunciation": "/skuːl/",
+        "example": "I go to school by bus.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "state",
+        "translation": "状态；州",
+        "pronunciation": "/steɪt/",
+        "example": "The state of the economy is good.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "family",
+        "translation": "家庭",
+        "pronunciation": "/ˈfæməli/",
+        "example": "I love my family.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "student",
+        "translation": "学生",
+        "pronunciation": "/ˈstuːdənt/",
+        "example": "He is a university student.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "group",
+        "translation": "组；群",
+        "pronunciation": "/ɡruːp/",
+        "example": "A group of friends.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "country",
+        "translation": "国家",
+        "pronunciation": "/ˈkʌntri/",
+        "example": "Which country are you from?",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "problem",
+        "translation": "问题",
+        "pronunciation": "/ˈprɒbləm/",
+        "example": "We have a big problem.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "hand",
+        "translation": "手",
+        "pronunciation": "/hænd/",
+        "example": "Wash your hands.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "part",
+        "translation": "部分",
+        "pronunciation": "/pɑːrt/",
+        "example": "It's part of the plan.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "place",
+        "translation": "地方",
+        "pronunciation": "/pleɪs/",
+        "example": "This is a nice place.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "case",
+        "translation": "情况；案例",
+        "pronunciation": "/keɪs/",
+        "example": "In that case, I will go.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "week",
+        "translation": "周",
+        "pronunciation": "/wiːk/",
+        "example": "See you next week.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "company",
+        "translation": "公司",
+        "pronunciation": "/ˈkʌmpəni/",
+        "example": "He works for a tech company.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "system",
+        "translation": "系统",
+        "pronunciation": "/ˈsɪstəm/",
+        "example": "The solar system.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "program",
+        "translation": "节目；程序",
+        "pronunciation": "/ˈproʊɡræm/",
+        "example": "I watched a TV program.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "question",
+        "translation": "问题",
+        "pronunciation": "/ˈkwestʃən/",
+        "example": "Can I ask a question?",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "work",
+        "translation": "工作",
+        "pronunciation": "/wɜːrk/",
+        "example": "I have a lot of work to do.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "government",
+        "translation": "政府",
+        "pronunciation": "/ˈɡʌvərnmənt/",
+        "example": "The government announced new laws.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "number",
+        "translation": "数字",
+        "pronunciation": "/ˈnʌmbər/",
+        "example": "What is your phone number?",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "night",
+        "translation": "夜晚",
+        "pronunciation": "/naɪt/",
+        "example": "Good night!",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "point",
+        "translation": "点；观点",
+        "pronunciation": "/pɔɪnt/",
+        "example": "That's a good point.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "home",
+        "translation": "家",
+        "pronunciation": "/hoʊm/",
+        "example": "Let's go home.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "water",
+        "translation": "水",
+        "pronunciation": "/ˈwɔːtər/",
+        "example": "Drink plenty of water.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "room",
+        "translation": "房间",
+        "pronunciation": "/ruːm/",
+        "example": "My room is clean.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "mother",
+        "translation": "母亲",
+        "pronunciation": "/ˈmʌðər/",
+        "example": "My mother is cooking.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "area",
+        "translation": "区域",
+        "pronunciation": "/ˈeriə/",
+        "example": "This is a quiet area.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "money",
+        "translation": "钱",
+        "pronunciation": "/ˈmʌni/",
+        "example": "Save money for the future.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "story",
+        "translation": "故事",
+        "pronunciation": "/ˈstɔːri/",
+        "example": "Tell me a story.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "fact",
+        "translation": "事实",
+        "pronunciation": "/fækt/",
+        "example": "It is a known fact.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "month",
+        "translation": "月",
+        "pronunciation": "/mʌnθ/",
+        "example": "My birthday is next month.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "lot",
+        "translation": "许多",
+        "pronunciation": "/lɒt/",
+        "example": "Thanks a lot.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "right",
+        "translation": "权利；右边；正确",
+        "pronunciation": "/raɪt/",
+        "example": "Turn right at the corner.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "study",
+        "translation": "学习；研究",
+        "pronunciation": "/ˈstʌdi/",
+        "example": "I need to study for the exam.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "book",
+        "translation": "书",
+        "pronunciation": "/bʊk/",
+        "example": "Read a book.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "eye",
+        "translation": "眼睛",
+        "pronunciation": "/aɪ/",
+        "example": "Close your eyes.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "job",
+        "translation": "工作",
+        "pronunciation": "/dʒɒb/",
+        "example": "I'm looking for a job.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "word",
+        "translation": "单词；话语",
+        "pronunciation": "/wɜːrd/",
+        "example": "Actions speak louder than words.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "business",
+        "translation": "生意",
+        "pronunciation": "/ˈbɪznəs/",
+        "example": "Business is good.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "issue",
+        "translation": "问题；议题",
+        "pronunciation": "/ˈɪʃuː/",
+        "example": "Discuss the issue.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "side",
+        "translation": "侧面；一边",
+        "pronunciation": "/saɪd/",
+        "example": "Stand by my side.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "kind",
+        "translation": "种类；善良的",
+        "pronunciation": "/kaɪnd/",
+        "example": "What kind of music do you like?",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "head",
+        "translation": "头",
+        "pronunciation": "/hed/",
+        "example": "Nod your head.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "house",
+        "translation": "房子",
+        "pronunciation": "/haʊs/",
+        "example": "We bought a new house.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "service",
+        "translation": "服务",
+        "pronunciation": "/ˈsɜːrvɪs/",
+        "example": "Excellent customer service.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "friend",
+        "translation": "朋友",
+        "pronunciation": "/frend/",
+        "example": "She is my best friend.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "father",
+        "translation": "父亲",
+        "pronunciation": "/ˈfɑːðər/",
+        "example": "Like father, like son.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "power",
+        "translation": "力量；权力",
+        "pronunciation": "/ˈpaʊər/",
+        "example": "Knowledge is power.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "hour",
+        "translation": "小时",
+        "pronunciation": "/ˈaʊər/",
+        "example": "I waited for an hour.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "game",
+        "translation": "游戏",
+        "pronunciation": "/ɡeɪm/",
+        "example": "Let's play a game.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "line",
+        "translation": "线；排队",
+        "pronunciation": "/laɪn/",
+        "example": "Wait in line.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "end",
+        "translation": "结束",
+        "pronunciation": "/end/",
+        "example": "It's not the end of the world.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "member",
+        "translation": "成员",
+        "pronunciation": "/ˈmembər/",
+        "example": "He is a member of the club.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "law",
+        "translation": "法律",
+        "pronunciation": "/lɔː/",
+        "example": "Obey the law.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "car",
+        "translation": "汽车",
+        "pronunciation": "/kɑːr/",
+        "example": "Drive a car.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "city",
+        "translation": "城市",
+        "pronunciation": "/ˈsɪti/",
+        "example": "New York is a big city.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "community",
+        "translation": "社区",
+        "pronunciation": "/kəˈmjuːnəti/",
+        "example": "Help the local community.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "name",
+        "translation": "名字",
+        "pronunciation": "/neɪm/",
+        "example": "My name is John.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "president",
+        "translation": "总统；总裁",
+        "pronunciation": "/ˈprezɪdənt/",
+        "example": "The president gave a speech.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "team",
+        "translation": "团队",
+        "pronunciation": "/tiːm/",
+        "example": "Work as a team.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "minute",
+        "translation": "分钟",
+        "pronunciation": "/ˈmɪnɪt/",
+        "example": "Wait a minute.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "idea",
+        "translation": "主意",
+        "pronunciation": "/aɪˈdiːə/",
+        "example": "I have an idea.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "kid",
+        "translation": "小孩",
+        "pronunciation": "/kɪd/",
+        "example": "He's just a kid.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "body",
+        "translation": "身体",
+        "pronunciation": "/ˈbɒdi/",
+        "example": "Exercise is good for the body.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "information",
+        "translation": "信息",
+        "pronunciation": "/ˌɪnfərˈmeɪʃən/",
+        "example": "For more information, visit our website.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "back",
+        "translation": "背部；后面",
+        "pronunciation": "/bæk/",
+        "example": "My back hurts.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "parent",
+        "translation": "父母",
+        "pronunciation": "/ˈperənt/",
+        "example": "Listen to your parents.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "face",
+        "translation": "脸",
+        "pronunciation": "/feɪs/",
+        "example": "Wash your face.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "others",
+        "translation": "其他人",
+        "pronunciation": "/ˈʌðərz/",
+        "example": "Be kind to others.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "level",
+        "translation": "水平",
+        "pronunciation": "/ˈlevəl/",
+        "example": "Review the next level.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "office",
+        "translation": "办公室",
+        "pronunciation": "/ˈɔːfɪs/",
+        "example": "I'm going to the office.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "door",
+        "translation": "门",
+        "pronunciation": "/dɔːr/",
+        "example": "Open the door.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "health",
+        "translation": "健康",
+        "pronunciation": "/helθ/",
+        "example": "Health is wealth.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "person",
+        "translation": "人",
+        "pronunciation": "/ˈpɜːrsən/",
+        "example": "She is a nice person.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "art",
+        "translation": "艺术",
+        "pronunciation": "/ɑːrt/",
+        "example": "Modern art.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "war",
+        "translation": "战争",
+        "pronunciation": "/wɔːr/",
+        "example": "War and Peace.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "history",
+        "translation": "历史",
+        "pronunciation": "/ˈhɪstəri/",
+        "example": "Study history.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "party",
+        "translation": "聚会；党派",
+        "pronunciation": "/ˈpɑːrti/",
+        "example": "Birthday party.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "result",
+        "translation": "结果",
+        "pronunciation": "/rɪˈzʌlt/",
+        "example": "The result was good.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "change",
+        "translation": "改变；零钱",
+        "pronunciation": "/tʃeɪndʒ/",
+        "example": "Keep the change.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "morning",
+        "translation": "早晨",
+        "pronunciation": "/ˈmɔːrnɪŋ/",
+        "example": "Good morning.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "reason",
+        "translation": "理由",
+        "pronunciation": "/ˈriːzən/",
+        "example": "What is the reason?",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "research",
+        "translation": "研究",
+        "pronunciation": "/ˈriːsɜːrtʃ/",
+        "example": "Scientific research.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "girl",
+        "translation": "女孩",
+        "pronunciation": "/ɡɜːrl/",
+        "example": "She is a smart girl.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "guy",
+        "translation": "家伙",
+        "pronunciation": "/ɡaɪ/",
+        "example": "He's a nice guy.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "food",
+        "translation": "食物",
+        "pronunciation": "/fuːd/",
+        "example": "I love spicy food.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "moment",
+        "translation": "时刻",
+        "pronunciation": "/ˈmoʊmənt/",
+        "example": "Wait a moment.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "air",
+        "translation": "空气",
+        "pronunciation": "/er/",
+        "example": "Fresh air.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "teacher",
+        "translation": "老师",
+        "pronunciation": "/ˈtiːtʃər/",
+        "example": "My teacher is helpful.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "force",
+        "translation": "力量；迫使",
+        "pronunciation": "/fɔːrs/",
+        "example": "Use force if necessary.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "education",
+        "translation": "教育",
+        "pronunciation": "/ˌedʒʊˈkeɪʃən/",
+        "example": "Education is important.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "happy",
+        "translation": "快乐",
+        "pronunciation": "/ˈhæpi/",
+        "example": "I am very happy today.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "sad",
+        "translation": "悲伤",
+        "pronunciation": "/sæd/",
+        "example": "The movie was so sad.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "angry",
+        "translation": "生气",
+        "pronunciation": "/ˈæŋɡri/",
+        "example": "Don't be angry with me.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "fear",
+        "translation": "恐惧",
+        "pronunciation": "/fɪr/",
+        "example": "He has a fear of heights.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "love",
+        "translation": "爱",
+        "pronunciation": "/lʌv/",
+        "example": "I love my family.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "hate",
+        "translation": "恨",
+        "pronunciation": "/heɪt/",
+        "example": "I hate waking up early.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "like",
+        "translation": "喜欢",
+        "pronunciation": "/laɪk/",
+        "example": "Do you like coffee?",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "hope",
+        "translation": "希望",
+        "pronunciation": "/hoʊp/",
+        "example": "I hope it rains.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "wish",
+        "translation": "愿望",
+        "pronunciation": "/wɪʃ/",
+        "example": "Make a wish.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "feel",
+        "translation": "感觉",
+        "pronunciation": "/fiːl/",
+        "example": "How do you feel?",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "smile",
+        "translation": "微笑",
+        "pronunciation": "/smaɪl/",
+        "example": "She has a beautiful smile.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "laugh",
+        "translation": "笑",
+        "pronunciation": "/læf/",
+        "example": "He made me laugh.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "cry",
+        "translation": "哭",
+        "pronunciation": "/kraɪ/",
+        "example": "Don't cry.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "surprise",
+        "translation": "惊讶",
+        "pronunciation": "/sərˈpraɪz/",
+        "example": "It was a big surprise.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "shock",
+        "translation": "震惊",
+        "pronunciation": "/ʃɒk/",
+        "example": "I was in shock.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "worry",
+        "translation": "担心",
+        "pronunciation": "/ˈwʌri/",
+        "example": "Don't worry about it.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "tired",
+        "translation": "累",
+        "pronunciation": "/ˈtaɪərd/",
+        "example": "I am so tired.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "bored",
+        "translation": "无聊",
+        "pronunciation": "/bɔːrd/",
+        "example": "I am bored.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "excited",
+        "translation": "兴奋",
+        "pronunciation": "/ɪkˈsaɪtɪd/",
+        "example": "I am excited about the trip.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "nervous",
+        "translation": "紧张",
+        "pronunciation": "/ˈnɜːrvəs/",
+        "example": "He feels nervous.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "calm",
+        "translation": "平静",
+        "pronunciation": "/kɑːm/",
+        "example": "Stay calm.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "proud",
+        "translation": "骄傲",
+        "pronunciation": "/praʊd/",
+        "example": "I am proud of you.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "shy",
+        "translation": "害羞",
+        "pronunciation": "/ʃai/",
+        "example": "She is very shy.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "brave",
+        "translation": "勇敢",
+        "pronunciation": "/breɪv/",
+        "example": "Be brave.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "meet",
+        "translation": "遇见",
+        "pronunciation": "/miːt/",
+        "example": "Nice to meet you.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "talk",
+        "translation": "谈话",
+        "pronunciation": "/tɔːk/",
+        "example": "Can we talk?",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "speak",
+        "translation": "说话",
+        "pronunciation": "/spiːk/",
+        "example": "Do you speak English?",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "listen",
+        "translation": "听",
+        "pronunciation": "/ˈlɪsən/",
+        "example": "Listen to me.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "hear",
+        "translation": "听到",
+        "pronunciation": "/hɪr/",
+        "example": "Did you hear that?",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "help",
+        "translation": "帮助",
+        "pronunciation": "/help/",
+        "example": "Can you help me?",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "share",
+        "translation": "分享",
+        "pronunciation": "/ʃer/",
+        "example": "Share your toys.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "support",
+        "translation": "支持",
+        "pronunciation": "/səˈpɔːrt/",
+        "example": "Thanks for your support.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "trust",
+        "translation": "信任",
+        "pronunciation": "/trʌst/",
+        "example": "Trust me.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "doubt",
+        "translation": "怀疑",
+        "pronunciation": "/daʊt/",
+        "example": "I doubt it.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "promise",
+        "translation": "承诺",
+        "pronunciation": "/ˈprɒmɪs/",
+        "example": "I promise to go.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "lie",
+        "translation": "谎言",
+        "pronunciation": "/laɪ/",
+        "example": "Don't tell a lie.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "secret",
+        "translation": "秘密",
+        "pronunciation": "/ˈsiːkrət/",
+        "example": "Keep it a secret.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "marry",
+        "translation": "结婚",
+        "pronunciation": "/ˈmæri/",
+        "example": "Will you marry me?",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "divorce",
+        "translation": "离婚",
+        "pronunciation": "/dɪˈvɔːrs/",
+        "example": "They got a divorce.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "single",
+        "translation": "单身",
+        "pronunciation": "/ˈsɪŋɡəl/",
+        "example": "He is single.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "relationship",
+        "translation": "关系",
+        "pronunciation": "/rɪˈleɪʃənʃɪp/",
+        "example": "A good relationship.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "date",
+        "translation": "约会；日期",
+        "pronunciation": "/deɪt/",
+        "example": "We have a date.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "kiss",
+        "translation": "吻",
+        "pronunciation": "/kɪs/",
+        "example": "Give me a kiss.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "hug",
+        "translation": "拥抱",
+        "pronunciation": "/hʌɡ/",
+        "example": "She gave me a hug.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "hello",
+        "translation": "你好",
+        "pronunciation": "/həˈloʊ/",
+        "example": "Hello there.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "goodbye",
+        "translation": "再见",
+        "pronunciation": "/ɡʊdˈbaɪ/",
+        "example": "Say goodbye.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "please",
+        "translation": "请",
+        "pronunciation": "/pliːz/",
+        "example": "Please help.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "thank",
+        "translation": "感谢",
+        "pronunciation": "/θæŋk/",
+        "example": "Thank you.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "sorry",
+        "translation": "对不起",
+        "pronunciation": "/ˈsɒri/",
+        "example": "I am sorry.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "welcome",
+        "translation": "欢迎",
+        "pronunciation": "/ˈwelkəm/",
+        "example": "Welcome home.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "excuse",
+        "translation": "原谅；借口",
+        "pronunciation": "/ɪkˈskjuːz/",
+        "example": "Excuse me.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "pardon",
+        "translation": "原谅",
+        "pronunciation": "/ˈpɑːrdən/",
+        "example": "I beg your pardon?",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "neighbor",
+        "translation": "邻居",
+        "pronunciation": "/ˈneɪbər/",
+        "example": "My neighbor is noisy.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "guest",
+        "translation": "客人",
+        "pronunciation": "/ɡest/",
+        "example": "We have guests.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "host",
+        "translation": "主人",
+        "pronunciation": "/hoʊst/",
+        "example": "He is a good host.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "visit",
+        "translation": "拜访",
+        "pronunciation": "/ˈvɪzɪt/",
+        "example": "Visit your parents.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "crowd",
+        "translation": "人群",
+        "pronunciation": "/kraʊd/",
+        "example": "A large crowd.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "together",
+        "translation": "一起",
+        "pronunciation": "/təˈɡeðər/",
+        "example": "Let's go together.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "alone",
+        "translation": "独自",
+        "pronunciation": "/əˈloʊn/",
+        "example": "Leave me alone.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "lonely",
+        "translation": "孤独",
+        "pronunciation": "/ˈloʊnli/",
+        "example": "He feels lonely.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "fun",
+        "translation": "乐趣",
+        "pronunciation": "/fʌn/",
+        "example": "Have fun!",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "funny",
+        "translation": "滑稽的",
+        "pronunciation": "/ˈfʌni/",
+        "example": "That joke is funny.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "joke",
+        "translation": "玩笑",
+        "pronunciation": "/dʒoʊk/",
+        "example": "Tell me a joke.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "serious",
+        "translation": "严肃的",
+        "pronunciation": "/ˈsɪriəs/",
+        "example": "Be serious.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "polite",
+        "translation": "有礼貌的",
+        "pronunciation": "/pəˈlaɪt/",
+        "example": "Be polite to others.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "rude",
+        "translation": "粗鲁的",
+        "pronunciation": "/ruːd/",
+        "example": "Don't be rude.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "invite",
+        "translation": "邀请",
+        "pronunciation": "/ɪnˈvaɪt/",
+        "example": "Invite him to the party.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "gift",
+        "translation": "礼物",
+        "pronunciation": "/ɡɪft/",
+        "example": "A birthday gift.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "celebrate",
+        "translation": "庆祝",
+        "pronunciation": "/ˈselɪbreɪt/",
+        "example": "Celebrate the victory.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "join",
+        "translation": "加入",
+        "pronunciation": "/dʒɔɪn/",
+        "example": "Join us.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "team",
+        "translation": "团队",
+        "pronunciation": "/tiːm/",
+        "example": "Our team won.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "club",
+        "translation": "俱乐部",
+        "pronunciation": "/klʌb/",
+        "example": "Join the club.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "discuss",
+        "translation": "讨论",
+        "pronunciation": "/dɪˈskʌs/",
+        "example": "Discuss the plan.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "argue",
+        "translation": "争论",
+        "pronunciation": "/ˈɑːrɡjuː/",
+        "example": "Don't argue.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "conflict",
+        "translation": "冲突",
+        "pronunciation": "/ˈkɒnflɪkt/",
+        "example": "Avoid conflict.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "peace",
+        "translation": "和平",
+        "pronunciation": "/piːs/",
+        "example": "World peace.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "enemy",
+        "translation": "敌人",
+        "pronunciation": "/ˈenəmi/",
+        "example": "He has no enemies.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "win",
+        "translation": "赢",
+        "pronunciation": "/wɪn/",
+        "example": "We will win.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "lose",
+        "translation": "输；丢失",
+        "pronunciation": "/luːz/",
+        "example": "Don't lose hope.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "fail",
+        "translation": "失败",
+        "pronunciation": "/feɪl/",
+        "example": "Don't affect to fail.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "succeed",
+        "translation": "成功",
+        "pronunciation": "/səkˈsiːd/",
+        "example": "Work hard to succeed.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "fame",
+        "translation": "名声",
+        "pronunciation": "/feɪm/",
+        "example": "He wants fame.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "respect",
+        "translation": "尊重",
+        "pronunciation": "/rɪˈspekt/",
+        "example": "Show respect.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "honor",
+        "translation": "荣誉",
+        "pronunciation": "/ˈɒnər/",
+        "example": "It is an honor.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "shame",
+        "translation": "羞耻",
+        "pronunciation": "/ʃeɪm/",
+        "example": "What a shame.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "pity",
+        "translation": "遗憾；怜悯",
+        "pronunciation": "/ˈpɪti/",
+        "example": "It's a pity.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "care",
+        "translation": "关心",
+        "pronunciation": "/ker/",
+        "example": "I don't care.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "ignore",
+        "translation": "忽视",
+        "pronunciation": "/ɪɡˈnɔːr/",
+        "example": "Ignore the noise.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "notice",
+        "translation": "注意",
+        "pronunciation": "/ˈnoʊtɪs/",
+        "example": "Did you notice?",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "attention",
+        "translation": "注意力",
+        "pronunciation": "/əˈtenʃən/",
+        "example": "Pay attention.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "impress",
+        "translation": "给...留下印象",
+        "pronunciation": "/ɪmˈpres/",
+        "example": "Impress your boss.",
+        "tags": [
+            "general",
+            "social"
+        ]
+    },
+    {
+        "word": "attitude",
+        "translation": "态度",
+        "pronunciation": "/ˈætɪtuːd/",
+        "example": "Good attitude.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "mood",
+        "translation": "心情",
+        "pronunciation": "/muːd/",
+        "example": "I'm in a good mood.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "mind",
+        "translation": "介意；思想",
+        "pronunciation": "/maɪnd/",
+        "example": "Do you mind?",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "heart",
+        "translation": "心",
+        "pronunciation": "/hɑːrt/",
+        "example": "Follow your heart.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "soul",
+        "translation": "灵魂",
+        "pronunciation": "/soʊl/",
+        "example": "Body and soul.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "spirit",
+        "translation": "精神",
+        "pronunciation": "/ˈspɪrɪt/",
+        "example": "Team spirit.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "memory",
+        "translation": "记忆",
+        "pronunciation": "/ˈmeməri/",
+        "example": "I have good memories.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "dream",
+        "translation": "梦想；梦",
+        "pronunciation": "/driːm/",
+        "example": "I had a dream.",
+        "tags": [
+            "general",
+            "emotions"
+        ]
+    },
+    {
+        "word": "work",
+        "translation": "工作",
+        "pronunciation": "/wɜːrk/",
+        "example": "I go to work at 9.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "job",
+        "translation": "工作；职位",
+        "pronunciation": "/dʒɒb/",
+        "example": "He has a good job.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "career",
+        "translation": "职业",
+        "pronunciation": "/kəˈrɪr/",
+        "example": "Focus on your career.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "business",
+        "translation": "商业",
+        "pronunciation": "/ˈbɪznəs/",
+        "example": "Mind your own business.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "company",
+        "translation": "公司",
+        "pronunciation": "/ˈkʌmpəni/",
+        "example": "I work for a large company.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "firm",
+        "translation": "商行",
+        "pronunciation": "/fɜːrm/",
+        "example": "A law firm.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "industry",
+        "translation": "行业",
+        "pronunciation": "/ˈɪndəstri/",
+        "example": "The tech industry.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "market",
+        "translation": "市场",
+        "pronunciation": "/ˈmɑːrkɪt/",
+        "example": "The stock market.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "product",
+        "translation": "产品",
+        "pronunciation": "/ˈprɒdʌkt/",
+        "example": "Launch a new product.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "service",
+        "translation": "服务",
+        "pronunciation": "/ˈsɜːrvɪs/",
+        "example": "Customer service.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "customer",
+        "translation": "顾客",
+        "pronunciation": "/ˈkʌstəmər/",
+        "example": "The customer is always right.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "client",
+        "translation": "客户",
+        "pronunciation": "/ˈklaɪənt/",
+        "example": "Meeting with a client.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "boss",
+        "translation": "老板",
+        "pronunciation": "/bɒs/",
+        "example": "Ask your boss.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "manager",
+        "translation": "经理",
+        "pronunciation": "/ˈmænɪdʒər/",
+        "example": "Speak to the manager.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "employee",
+        "translation": "雇员",
+        "pronunciation": "/ɪmˈplɔɪiː/",
+        "example": "A dedicated employee.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "staff",
+        "translation": "全体员工",
+        "pronunciation": "/stæf/",
+        "example": "The staff is friendly.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "office",
+        "translation": "办公室",
+        "pronunciation": "/ˈɔːfɪs/",
+        "example": "An open office.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "meeting",
+        "translation": "会议",
+        "pronunciation": "/ˈmiːtɪŋ/",
+        "example": "Attend a meeting.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "schedule",
+        "translation": "日程",
+        "pronunciation": "/ˈskedʒuːl/",
+        "example": "Check your schedule.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "deadline",
+        "translation": "截止日期",
+        "pronunciation": "/ˈdedlaɪn/",
+        "example": "Meet the deadline.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "project",
+        "translation": "项目",
+        "pronunciation": "/ˈprɒdʒekt/",
+        "example": "Start a new project.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "report",
+        "translation": "报告",
+        "pronunciation": "/rɪˈpɔːrt/",
+        "example": "Write a report.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "plan",
+        "translation": "计划",
+        "pronunciation": "/plæn/",
+        "example": "Make a business plan.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "goal",
+        "translation": "目标",
+        "pronunciation": "/ɡoʊl/",
+        "example": "Achieve your goals.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "strategy",
+        "translation": "策略",
+        "pronunciation": "/ˈstrætədʒi/",
+        "example": "Marketing strategy.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "deal",
+        "translation": "交易",
+        "pronunciation": "/diːl/",
+        "example": "Make a deal.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "contract",
+        "translation": "合同",
+        "pronunciation": "/ˈkɒntrækt/",
+        "example": "Sign a contract.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "salary",
+        "translation": "薪水",
+        "pronunciation": "/ˈsæləri/",
+        "example": "A high salary.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "wage",
+        "translation": "工资",
+        "pronunciation": "/weɪdʒ/",
+        "example": "Minimum wage.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "income",
+        "translation": "收入",
+        "pronunciation": "/ˈɪnkʌm/",
+        "example": "Annual income.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "tax",
+        "translation": "税",
+        "pronunciation": "/tæks/",
+        "example": "Pay your taxes.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "cost",
+        "translation": "成本",
+        "pronunciation": "/kɒst/",
+        "example": "Lower the cost.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "price",
+        "translation": "价格",
+        "pronunciation": "/praɪs/",
+        "example": "The price is high.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "value",
+        "translation": "价值",
+        "pronunciation": "/ˈvæljuː/",
+        "example": "Add value.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "profit",
+        "translation": "利润",
+        "pronunciation": "/ˈprɒfɪt/",
+        "example": "Make a profit.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "loss",
+        "translation": "亏损",
+        "pronunciation": "/lɒs/",
+        "example": "Avoid a loss.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "sell",
+        "translation": "卖",
+        "pronunciation": "/sel/",
+        "example": "Sell your car.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "buy",
+        "translation": "买",
+        "pronunciation": "/baɪ/",
+        "example": "Buy stocks.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "trade",
+        "translation": "贸易",
+        "pronunciation": "/treɪd/",
+        "example": "Free trade.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "offer",
+        "translation": "报价；提议",
+        "pronunciation": "/ˈɔːfər/",
+        "example": "Make an offer.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "order",
+        "translation": "订单",
+        "pronunciation": "/ˈɔːrdər/",
+        "example": "Place an order.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "supply",
+        "translation": "供应",
+        "pronunciation": "/səˈplaɪ/",
+        "example": "Supply and demand.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "create",
+        "translation": "创造",
+        "pronunciation": "/kriˈeɪt/",
+        "example": "Create jobs.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "build",
+        "translation": "建立",
+        "pronunciation": "/bɪld/",
+        "example": "Build a network.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "grow",
+        "translation": "增长",
+        "pronunciation": "/ɡroʊ/",
+        "example": "The economy is growing.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "lead",
+        "translation": "领导",
+        "pronunciation": "/liːd/",
+        "example": "Lead the team.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "manage",
+        "translation": "管理",
+        "pronunciation": "/ˈmænɪdʒ/",
+        "example": "Manage your time.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "organize",
+        "translation": "组织",
+        "pronunciation": "/ˈɔːrɡənaɪz/",
+        "example": "Organize the files.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "develop",
+        "translation": "开发；发展",
+        "pronunciation": "/dɪˈveləp/",
+        "example": "Develop a new app.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "invest",
+        "translation": "投资",
+        "pronunciation": "/ɪnˈvest/",
+        "example": "Invest in real estate.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "save",
+        "translation": "节省",
+        "pronunciation": "/seɪv/",
+        "example": "Save money.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "spend",
+        "translation": "花费",
+        "pronunciation": "/spend/",
+        "example": "Spend wisely.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "pay",
+        "translation": "支付",
+        "pronunciation": "/peɪ/",
+        "example": "Pay the bill.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "owe",
+        "translation": "欠",
+        "pronunciation": "/oʊ/",
+        "example": "I owe you one.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "bank",
+        "translation": "银行",
+        "pronunciation": "/bæŋk/",
+        "example": "Go to the bank.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "credit",
+        "translation": "信用",
+        "pronunciation": "/ˈkredɪt/",
+        "example": "Credit card.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "debt",
+        "translation": "债务",
+        "pronunciation": "/det/",
+        "example": "Pay off debt.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "risk",
+        "translation": "风险",
+        "pronunciation": "/rɪsk/",
+        "example": "Take a risk.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "chance",
+        "translation": "机会",
+        "pronunciation": "/tʃæns/",
+        "example": "A business chance.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "success",
+        "translation": "成功",
+        "pronunciation": "/səkˈses/",
+        "example": "Key to success.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "failure",
+        "translation": "失败",
+        "pronunciation": "/ˈfeɪljər/",
+        "example": "Learn from failure.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "skill",
+        "translation": "技能",
+        "pronunciation": "/skɪl/",
+        "example": "Communication skills.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "experience",
+        "translation": "经验",
+        "pronunciation": "/ɪkˈspɪriəns/",
+        "example": "Work experience.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "resume",
+        "translation": "简历",
+        "pronunciation": "/ˈrezəmeɪ/",
+        "example": "Send your resume.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "interview",
+        "translation": "面试",
+        "pronunciation": "/ˈɪntərvjuː/",
+        "example": "Job interview.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "hire",
+        "translation": "雇佣",
+        "pronunciation": "/haɪər/",
+        "example": "We are hiring.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "fire",
+        "translation": "解雇",
+        "pronunciation": "/faɪər/",
+        "example": "He was fired.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "quit",
+        "translation": "辞职",
+        "pronunciation": "/kwɪt/",
+        "example": "I quit my job.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "retire",
+        "translation": "退休",
+        "pronunciation": "/rɪˈtaɪər/",
+        "example": "Plan to retire.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "promotion",
+        "translation": "晋升",
+        "pronunciation": "/prəˈmoʊʃən/",
+        "example": "Get a promotion.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "raise",
+        "translation": "加薪",
+        "pronunciation": "/reɪz/",
+        "example": "Ask for a raise.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "bonus",
+        "translation": "奖金",
+        "pronunciation": "/ˈboʊnəs/",
+        "example": "Year-end bonus.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "brand",
+        "translation": "品牌",
+        "pronunciation": "/brænd/",
+        "example": "Famous brand.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "logo",
+        "translation": "标志",
+        "pronunciation": "/ˈloʊɡoʊ/",
+        "example": "Design a logo.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "advertisement",
+        "translation": "广告",
+        "pronunciation": "/ˌædvərˈtaɪzmənt/",
+        "example": "TV advertisement.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "email",
+        "translation": "邮件",
+        "pronunciation": "/ˈiːmeɪl/",
+        "example": "Send an email.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "phone",
+        "translation": "电话",
+        "pronunciation": "/foʊn/",
+        "example": "Answer the phone.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "message",
+        "translation": "消息",
+        "pronunciation": "/ˈmesɪdʒ/",
+        "example": "Leave a message.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "letter",
+        "translation": "信",
+        "pronunciation": "/ˈletər/",
+        "example": "Write a formal letter.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "document",
+        "translation": "文件",
+        "pronunciation": "/ˈdɒkjəmənt/",
+        "example": "Sign the document.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "file",
+        "translation": "档案",
+        "pronunciation": "/faɪl/",
+        "example": "Organize the files.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "copy",
+        "translation": "副本",
+        "pronunciation": "/ˈkɒpi/",
+        "example": "Make a copy.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "print",
+        "translation": "打印",
+        "pronunciation": "/prɪnt/",
+        "example": "Print the report.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "scan",
+        "translation": "扫描",
+        "pronunciation": "/skæn/",
+        "example": "Scan the ID.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "fax",
+        "translation": "传真",
+        "pronunciation": "/fæks/",
+        "example": "Send a fax.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "desk",
+        "translation": "办公桌",
+        "pronunciation": "/desk/",
+        "example": "Sit at the desk.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "chair",
+        "translation": "椅子",
+        "pronunciation": "/tʃer/",
+        "example": "A comfortable chair.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "pen",
+        "translation": "笔",
+        "pronunciation": "/pen/",
+        "example": "Sign with a pen.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "screen",
+        "translation": "屏幕",
+        "pronunciation": "/skriːn/",
+        "example": "Look at the screen.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "keyboard",
+        "translation": "键盘",
+        "pronunciation": "/ˈkiːbɔːrd/",
+        "example": "Type on the keyboard.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "mouse",
+        "translation": "鼠标",
+        "pronunciation": "/maʊs/",
+        "example": "Click the mouse.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "laptop",
+        "translation": "笔记本电脑",
+        "pronunciation": "/ˈlæptɒp/",
+        "example": "Work on the laptop.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "internet",
+        "translation": "互联网",
+        "pronunciation": "/ˈɪntərnet/",
+        "example": "Connect to the internet.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "website",
+        "translation": "网站",
+        "pronunciation": "/ˈwebsaɪt/",
+        "example": "Visit our website.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "network",
+        "translation": "网络",
+        "pronunciation": "/ˈnetwɜːrk/",
+        "example": "Computer network.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "password",
+        "translation": "密码",
+        "pronunciation": "/ˈpæswɜːrd/",
+        "example": "Enter your password.",
+        "tags": [
+            "general",
+            "business"
+        ]
+    },
+    {
+        "word": "education",
+        "translation": "教育",
+        "pronunciation": "/ˌedʒʊˈkeɪʃən/",
+        "example": "Education is key.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "school",
+        "translation": "学校",
+        "pronunciation": "/skuːl/",
+        "example": "Go to school.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "university",
+        "translation": "大学",
+        "pronunciation": "/ˌjuːnɪˈvɜːrsɪti/",
+        "example": "Study at a university.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "college",
+        "translation": "学院",
+        "pronunciation": "/ˈkɒlɪdʒ/",
+        "example": "Community college.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "student",
+        "translation": "学生",
+        "pronunciation": "/ˈstuːdənt/",
+        "example": "A diligent student.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "teacher",
+        "translation": "老师",
+        "pronunciation": "/ˈtiːtʃər/",
+        "example": "Respect your teacher.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "professor",
+        "translation": "教授",
+        "pronunciation": "/prəˈfesər/",
+        "example": "Ask the professor.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "class",
+        "translation": "班级；课程",
+        "pronunciation": "/klæs/",
+        "example": "Attend a class.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "lesson",
+        "translation": "课",
+        "pronunciation": "/ˈlesən/",
+        "example": "Piano lesson.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "homework",
+        "translation": "家庭作业",
+        "pronunciation": "/ˈhoʊmwɜːrk/",
+        "example": "Do your homework.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "exam",
+        "translation": "考试",
+        "pronunciation": "/ɪɡˈzæm/",
+        "example": "Pass the exam.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "test",
+        "translation": "测验",
+        "pronunciation": "/test/",
+        "example": "Take a test.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "grade",
+        "translation": "年级；成绩",
+        "pronunciation": "/ɡreɪd/",
+        "example": "Get a good grade.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "score",
+        "translation": "分数",
+        "pronunciation": "/skɔːr/",
+        "example": "High score.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "pass",
+        "translation": "通过",
+        "pronunciation": "/pæs/",
+        "example": "Pass the course.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "fail",
+        "translation": "不及格",
+        "pronunciation": "/feɪl/",
+        "example": "Fail the test.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "study",
+        "translation": "学习",
+        "pronunciation": "/ˈstʌdi/",
+        "example": "Study hard.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "learn",
+        "translation": "学会",
+        "pronunciation": "/lɜːrn/",
+        "example": "Learn English.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "teach",
+        "translation": "教",
+        "pronunciation": "/tiːtʃ/",
+        "example": "Teach me how.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "read",
+        "translation": "读",
+        "pronunciation": "/riːd/",
+        "example": "Read a book.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "write",
+        "translation": "写",
+        "pronunciation": "/raɪt/",
+        "example": "Write an essay.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "listen",
+        "translation": "听",
+        "pronunciation": "/ˈlɪsən/",
+        "example": "Listen to the lecture.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "speak",
+        "translation": "说",
+        "pronunciation": "/spiːk/",
+        "example": "Speak clearly.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "language",
+        "translation": "语言",
+        "pronunciation": "/ˈlæŋɡwɪdʒ/",
+        "example": "Foreign language.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "grammar",
+        "translation": "语法",
+        "pronunciation": "/ˈɡræmər/",
+        "example": "English grammar.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "vocabulary",
+        "translation": "词汇",
+        "pronunciation": "/vəˈkæbjʊləri/",
+        "example": "Expand your vocabulary.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "dictionary",
+        "translation": "字典",
+        "pronunciation": "/ˈdɪkʃənəri/",
+        "example": "Use a dictionary.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "library",
+        "translation": "图书馆",
+        "pronunciation": "/ˈlaɪbrəri/",
+        "example": "Quiet in the library.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "book",
+        "translation": "书",
+        "pronunciation": "/bʊk/",
+        "example": "Borrow a book.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "paper",
+        "translation": "论文；纸",
+        "pronunciation": "/ˈpeɪpər/",
+        "example": "Write a research paper.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "essay",
+        "translation": "文章",
+        "pronunciation": "/ˈeseɪ/",
+        "example": "Submit your essay.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "subject",
+        "translation": "科目",
+        "pronunciation": "/ˈsʌbdʒɪkt/",
+        "example": "Favorite subject.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "math",
+        "translation": "数学",
+        "pronunciation": "/mæθ/",
+        "example": "Math is difficult.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "science",
+        "translation": "科学",
+        "pronunciation": "/ˈsaɪəns/",
+        "example": "Study science.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "history",
+        "translation": "历史",
+        "pronunciation": "/ˈhɪstəri/",
+        "example": "World history.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "geography",
+        "translation": "地理",
+        "pronunciation": "/dʒiˈɒɡrəfi/",
+        "example": "Learn geography.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "art",
+        "translation": "艺术",
+        "pronunciation": "/ɑːrt/",
+        "example": "Art class.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "music",
+        "translation": "音乐",
+        "pronunciation": "/ˈmjuːzɪk/",
+        "example": "Music theory.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "physics",
+        "translation": "物理",
+        "pronunciation": "/ˈfɪzɪks/",
+        "example": "Laws of physics.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "chemistry",
+        "translation": "化学",
+        "pronunciation": "/ˈkemɪstri/",
+        "example": "Chemistry lab.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "biology",
+        "translation": "生物",
+        "pronunciation": "/baɪˈɒlədʒi/",
+        "example": "Human biology.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "degree",
+        "translation": "学位",
+        "pronunciation": "/dɪˈɡriː/",
+        "example": "Bachelor's degree.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "major",
+        "translation": "专业",
+        "pronunciation": "/ˈmeɪdʒər/",
+        "example": "What looks your major?",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "course",
+        "translation": "课程",
+        "pronunciation": "/kɔːrs/",
+        "example": "Online course.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "lecture",
+        "translation": "讲座",
+        "pronunciation": "/ˈlektʃər/",
+        "example": "Attend a lecture.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "term",
+        "translation": "学期；术语",
+        "pronunciation": "/tɜːrm/",
+        "example": "Spring term.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "semester",
+        "translation": "学期",
+        "pronunciation": "/sɪˈmestər/",
+        "example": "Fall semester.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "graduate",
+        "translation": "毕业",
+        "pronunciation": "/ˈɡrædʒuːeɪt/",
+        "example": "Graduate effectively.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "certificate",
+        "translation": "证书",
+        "pronunciation": "/sərˈtɪfɪkət/",
+        "example": "Get a certificate.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "diploma",
+        "translation": "文凭",
+        "pronunciation": "/dɪˈploʊmə/",
+        "example": "High school diploma.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "knowledge",
+        "translation": "知识",
+        "pronunciation": "/ˈnɒlɪdʒ/",
+        "example": "Seek knowledge.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "skill",
+        "translation": "技能",
+        "pronunciation": "/skɪl/",
+        "example": "Develop new skills.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "ability",
+        "translation": "能力",
+        "pronunciation": "/əˈbɪləti/",
+        "example": "Testing ability.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "talent",
+        "translation": "天赋",
+        "pronunciation": "/ˈtælənt/",
+        "example": "Musical talent.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "smart",
+        "translation": "聪明的",
+        "pronunciation": "/smɑːrt/",
+        "example": "She is smart.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "clever",
+        "translation": "机灵的",
+        "pronunciation": "/ˈklevər/",
+        "example": "Clever idea.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "intelligent",
+        "translation": "智能的；聪明的",
+        "pronunciation": "/ɪnˈtelɪdʒənt/",
+        "example": "Intelligent design.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "stupid",
+        "translation": "愚蠢的",
+        "pronunciation": "/ˈstuːpɪd/",
+        "example": "Don't be stupid.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "correct",
+        "translation": "正确的",
+        "pronunciation": "/kəˈrekt/",
+        "example": "Correct answer.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "wrong",
+        "translation": "错误的",
+        "pronunciation": "/rɒŋ/",
+        "example": "Wrong direction.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "true",
+        "translation": "真实的",
+        "pronunciation": "/truː/",
+        "example": "True or false.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "false",
+        "translation": "错误的",
+        "pronunciation": "/fɔːls/",
+        "example": "True or false.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "answer",
+        "translation": "答案",
+        "pronunciation": "/ˈænsər/",
+        "example": "Check the answer.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "question",
+        "translation": "问题",
+        "pronunciation": "/ˈkwestʃən/",
+        "example": "Ask a question.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "ask",
+        "translation": "问",
+        "pronunciation": "/æsk/",
+        "example": "Ask for help.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "explain",
+        "translation": "解释",
+        "pronunciation": "/ɪkˈspleɪn/",
+        "example": "Explain the rule.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "understand",
+        "translation": "理解",
+        "pronunciation": "/ˌʌndərˈstænd/",
+        "example": "Do you understand?",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "know",
+        "translation": "知道",
+        "pronunciation": "/noʊ/",
+        "example": "I know the answer.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "think",
+        "translation": "思考",
+        "pronunciation": "/θɪŋk/",
+        "example": "Think effectively.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "remember",
+        "translation": "记住",
+        "pronunciation": "/rɪˈmembər/",
+        "example": "Remember this word.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "forget",
+        "translation": "忘记",
+        "pronunciation": "/fərˈɡet/",
+        "example": "Don't forget.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "practice",
+        "translation": "练习",
+        "pronunciation": "/ˈpræktɪs/",
+        "example": "Practice makes perfect.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "review",
+        "translation": "复习",
+        "pronunciation": "/rɪˈvjuː/",
+        "example": "Review your notes.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "note",
+        "translation": "笔记",
+        "pronunciation": "/noʊt/",
+        "example": "Take notes.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "pencil",
+        "translation": "铅笔",
+        "pronunciation": "/ˈpensəl/",
+        "example": "Sharpen the pencil.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "blackboard",
+        "translation": "黑板",
+        "pronunciation": "/ˈblækbɔːrd/",
+        "example": "Look at the blackboard.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "chalk",
+        "translation": "粉笔",
+        "pronunciation": "/tʃɔːk/",
+        "example": "Write with chalk.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "eraser",
+        "translation": "橡皮",
+        "pronunciation": "/ɪˈreɪsər/",
+        "example": "Use an eraser.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "ruler",
+        "translation": "尺子",
+        "pronunciation": "/ˈruːlər/",
+        "example": "Measure with a ruler.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "desk",
+        "translation": "课桌",
+        "pronunciation": "/desk/",
+        "example": "Sit at your desk.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "assignment",
+        "translation": "作业",
+        "pronunciation": "/əˈsaɪnmənt/",
+        "example": "Finish the assignment.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "research",
+        "translation": "研究",
+        "pronunciation": "/ˈriːsɜːrtʃ/",
+        "example": "Conduct research.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "result",
+        "translation": "结果",
+        "pronunciation": "/rɪˈzʌlt/",
+        "example": "Test results.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "analysis",
+        "translation": "分析",
+        "pronunciation": "/əˈnæləsɪs/",
+        "example": "Data analysis.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "theory",
+        "translation": "理论",
+        "pronunciation": "/ˈθɪəri/",
+        "example": "Scientific theory.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "experiment",
+        "translation": "实验",
+        "pronunciation": "/ɪkˈsperɪmənt/",
+        "example": "Lab experiment.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "lab",
+        "translation": "实验室",
+        "pronunciation": "/læb/",
+        "example": "Science lab.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "rule",
+        "translation": "规则",
+        "pronunciation": "/ruːl/",
+        "example": "Follow the rules.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "principal",
+        "translation": "校长",
+        "pronunciation": "/ˈprɪnsɪpəl/",
+        "example": "School principal.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "coach",
+        "translation": "教练",
+        "pronunciation": "/koʊtʃ/",
+        "example": "Football coach.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "gym",
+        "translation": "体育馆",
+        "pronunciation": "/dʒɪm/",
+        "example": "PE class in the gym.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "playground",
+        "translation": "操场",
+        "pronunciation": "/ˈpleɪɡraʊnd/",
+        "example": "Play on the playground.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "uniform",
+        "translation": "校服",
+        "pronunciation": "/ˈjuːnɪfɔːrm/",
+        "example": "Wear a school uniform.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "vacation",
+        "translation": "假期",
+        "pronunciation": "/veɪˈkeɪʃən/",
+        "example": "Summer vacation.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "holiday",
+        "translation": "假日",
+        "pronunciation": "/ˈhɒlɪdeɪ/",
+        "example": "School holiday.",
+        "tags": [
+            "general",
+            "education"
+        ]
+    },
+    {
+        "word": "technology",
+        "translation": "技术",
+        "pronunciation": "/tekˈnɒlədʒi/",
+        "example": "Modern technology.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "computer",
+        "translation": "电脑",
+        "pronunciation": "/kəmˈpjuːtər/",
+        "example": "Use a computer.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "software",
+        "translation": "软件",
+        "pronunciation": "/ˈsɔːftwer/",
+        "example": "Install the software.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "hardware",
+        "translation": "硬件",
+        "pronunciation": "/ˈhɑːrdwer/",
+        "example": "Computer hardware.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "internet",
+        "translation": "互联网",
+        "pronunciation": "/ˈɪntərnet/",
+        "example": "Surf the internet.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "web",
+        "translation": "网络",
+        "pronunciation": "/web/",
+        "example": "World Wide Web.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "site",
+        "translation": "站点",
+        "pronunciation": "/saɪt/",
+        "example": "Web site.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "page",
+        "translation": "页面",
+        "pronunciation": "/peɪdʒ/",
+        "example": "Home page.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "link",
+        "translation": "链接",
+        "pronunciation": "/lɪŋk/",
+        "example": "Click the link.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "click",
+        "translation": "点击",
+        "pronunciation": "/klɪk/",
+        "example": "Click the button.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "user",
+        "translation": "用户",
+        "pronunciation": "/ˈjuːzər/",
+        "example": "Active user.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "login",
+        "translation": "登录",
+        "pronunciation": "/ˈlɔːɡɪn/",
+        "example": "Login to your account.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "logout",
+        "translation": "登出",
+        "pronunciation": "/ˈlɔːɡaʊt/",
+        "example": "Logout safely.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "password",
+        "translation": "密码",
+        "pronunciation": "/ˈpæswɜːrd/",
+        "example": "Enter password.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "security",
+        "translation": "安全",
+        "pronunciation": "/sɪˈkjuːrɪti/",
+        "example": "Cyber security.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "virus",
+        "translation": "病毒",
+        "pronunciation": "/ˈvaɪrəs/",
+        "example": "Computer virus.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "hack",
+        "translation": "黑客攻击",
+        "pronunciation": "/hæk/",
+        "example": "Hack the system.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "data",
+        "translation": "数据",
+        "pronunciation": "/ˈdeɪtə/",
+        "example": "Data analysis.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "file",
+        "translation": "文件",
+        "pronunciation": "/faɪl/",
+        "example": "Save file.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "folder",
+        "translation": "文件夹",
+        "pronunciation": "/ˈfoʊldər/",
+        "example": "New folder.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "save",
+        "translation": "保存",
+        "pronunciation": "/seɪv/",
+        "example": "Save changes.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "delete",
+        "translation": "删除",
+        "pronunciation": "/dɪˈliːt/",
+        "example": "Delete file.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "copy",
+        "translation": "复制",
+        "pronunciation": "/ˈkɒpi/",
+        "example": "Copy and paste.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "paste",
+        "translation": "粘贴",
+        "pronunciation": "/peɪst/",
+        "example": "Copy and paste.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "search",
+        "translation": "搜索",
+        "pronunciation": "/sɜːrtʃ/",
+        "example": "Search online.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "engine",
+        "translation": "引擎",
+        "pronunciation": "/ˈendʒɪn/",
+        "example": "Search engine.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "robot",
+        "translation": "机器人",
+        "pronunciation": "/ˈroʊbɒt/",
+        "example": "AI robot.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "machine",
+        "translation": "机器",
+        "pronunciation": "/məˈʃiːn/",
+        "example": "Machine learning.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "device",
+        "translation": "设备",
+        "pronunciation": "/dɪˈvaɪs/",
+        "example": "Mobile device.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "phone",
+        "translation": "电话",
+        "pronunciation": "/foʊn/",
+        "example": "Smart phone.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "mobile",
+        "translation": "移动的",
+        "pronunciation": "/ˈmoʊbəl/",
+        "example": "Mobile app.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "app",
+        "translation": "应用",
+        "pronunciation": "/æp/",
+        "example": "Download the app.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "screen",
+        "translation": "屏幕",
+        "pronunciation": "/skriːn/",
+        "example": "Touch screen.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "display",
+        "translation": "显示",
+        "pronunciation": "/dɪˈspleɪ/",
+        "example": "Display settings.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "battery",
+        "translation": "电池",
+        "pronunciation": "/ˈbætəri/",
+        "example": "Low battery.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "charge",
+        "translation": "充电",
+        "pronunciation": "/tʃɑːrdʒ/",
+        "example": "Charge the phone.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "power",
+        "translation": "电源",
+        "pronunciation": "/ˈpaʊər/",
+        "example": "Power on.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "button",
+        "translation": "按钮",
+        "pronunciation": "/ˈbʌtən/",
+        "example": "Press the button.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "key",
+        "translation": "键",
+        "pronunciation": "/kiː/",
+        "example": "Press any key.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "text",
+        "translation": "文本",
+        "pronunciation": "/tekst/",
+        "example": "Send a text.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "message",
+        "translation": "消息",
+        "pronunciation": "/ˈmesɪdʒ/",
+        "example": "Text message.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "chat",
+        "translation": "聊天",
+        "pronunciation": "/tʃæt/",
+        "example": "Chat online.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "video",
+        "translation": "视频",
+        "pronunciation": "/ˈvɪdioʊ/",
+        "example": "Watch a video.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "audio",
+        "translation": "音频",
+        "pronunciation": "/ˈɔːdioʊ/",
+        "example": "Audio file.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "image",
+        "translation": "图像",
+        "pronunciation": "/ˈɪmɪdʒ/",
+        "example": "Image quality.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "photo",
+        "translation": "照片",
+        "pronunciation": "/ˈfoʊtoʊ/",
+        "example": "Take a photo.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "camera",
+        "translation": "相机",
+        "pronunciation": "/ˈkæmərə/",
+        "example": "Digital camera.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "media",
+        "translation": "媒体",
+        "pronunciation": "/ˈmiːdiə/",
+        "example": "Social media.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "news",
+        "translation": "新闻",
+        "pronunciation": "/nuːz/",
+        "example": "Breaking news.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "report",
+        "translation": "报道",
+        "pronunciation": "/rɪˈpɔːrt/",
+        "example": "News report.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "article",
+        "translation": "文章",
+        "pronunciation": "/ˈɑːrtɪkəl/",
+        "example": "Read an article.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "blog",
+        "translation": "博客",
+        "pronunciation": "/blɒɡ/",
+        "example": "Write a blog.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "post",
+        "translation": "帖子",
+        "pronunciation": "/poʊst/",
+        "example": "Post on Facebook.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "comment",
+        "translation": "评论",
+        "pronunciation": "/ˈkɒment/",
+        "example": "Leave a comment.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "like",
+        "translation": "赞",
+        "pronunciation": "/laɪk/",
+        "example": "Like the post.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "share",
+        "translation": "分享",
+        "pronunciation": "/ʃer/",
+        "example": "Share the news.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "follow",
+        "translation": "关注",
+        "pronunciation": "/ˈfɒloʊ/",
+        "example": "Follow me.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "friend",
+        "translation": "好友",
+        "pronunciation": "/frend/",
+        "example": "Add friend.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "group",
+        "translation": "群组",
+        "pronunciation": "/ɡruːp/",
+        "example": "Join the group.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "network",
+        "translation": "网络",
+        "pronunciation": "/ˈnetwɜːrk/",
+        "example": "Social network.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "connect",
+        "translation": "连接",
+        "pronunciation": "/kəˈnekt/",
+        "example": "Connect with friends.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "online",
+        "translation": "在线",
+        "pronunciation": "/ˌɒnˈlaɪn/",
+        "example": "Online shopping.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "offline",
+        "translation": "离线",
+        "pronunciation": "/ˌɔːfˈlaɪn/",
+        "example": "Offline mode.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "download",
+        "translation": "下载",
+        "pronunciation": "/ˌdaʊnˈloʊd/",
+        "example": "Download music.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "upload",
+        "translation": "上传",
+        "pronunciation": "/ˌʌpˈloʊd/",
+        "example": "Upload photos.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "stream",
+        "translation": "流媒体",
+        "pronunciation": "/striːm/",
+        "example": "Live stream.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "music",
+        "translation": "音乐",
+        "pronunciation": "/ˈmjuːzɪk/",
+        "example": "Listen to music.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "movie",
+        "translation": "电影",
+        "pronunciation": "/ˈmuːvi/",
+        "example": "Watch a movie.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "game",
+        "translation": "游戏",
+        "pronunciation": "/ɡeɪm/",
+        "example": "Play a game.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "play",
+        "translation": "播放；玩",
+        "pronunciation": "/pleɪ/",
+        "example": "Press play.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "pause",
+        "translation": "暂停",
+        "pronunciation": "/pɔːz/",
+        "example": "Pause the video.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "stop",
+        "translation": "停止",
+        "pronunciation": "/stɒp/",
+        "example": "Stop playing.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "record",
+        "translation": "录制",
+        "pronunciation": "/rɪˈkɔːrd/",
+        "example": "Record a video.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "radio",
+        "translation": "收音机",
+        "pronunciation": "/ˈreɪdioʊ/",
+        "example": "Listen to the radio.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "tv",
+        "translation": "电视",
+        "pronunciation": "/ˌtiːˈviː/",
+        "example": "Watch TV.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "channel",
+        "translation": "频道",
+        "pronunciation": "/ˈtʃænəl/",
+        "example": "Change the channel.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "press",
+        "translation": "媒体；按",
+        "pronunciation": "/pres/",
+        "example": "The press.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "film",
+        "translation": "胶卷；影片",
+        "pronunciation": "/fɪlm/",
+        "example": "Film camera.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "science",
+        "translation": "科学",
+        "pronunciation": "/ˈsaɪəns/",
+        "example": "Computer science.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "future",
+        "translation": "未来",
+        "pronunciation": "/ˈfjuːtʃər/",
+        "example": "Future technology.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "modern",
+        "translation": "现代的",
+        "pronunciation": "/ˈmɒdərn/",
+        "example": "Modern life.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "digital",
+        "translation": "数字的",
+        "pronunciation": "/ˈdɪdʒɪtəl/",
+        "example": "Digital world.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "smart",
+        "translation": "智能的",
+        "pronunciation": "/smɑːrt/",
+        "example": "Smart home.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "cloud",
+        "translation": "云",
+        "pronunciation": "/klaʊd/",
+        "example": "Cloud storage.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "storage",
+        "translation": "存储",
+        "pronunciation": "/ˈstɔːrɪdʒ/",
+        "example": "Full storage.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "memory",
+        "translation": "内存",
+        "pronunciation": "/ˈmeməri/",
+        "example": "More memory.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "virtual",
+        "translation": "虚拟的",
+        "pronunciation": "/ˈvɜːrtʃuəl/",
+        "example": "Virtual reality.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "reality",
+        "translation": "现实",
+        "pronunciation": "/riˈæləti/",
+        "example": "Virtual reality.",
+        "tags": [
+            "general",
+            "technology"
+        ]
+    },
+    {
+        "word": "nature",
+        "translation": "自然",
+        "pronunciation": "/ˈneɪtʃər/",
+        "example": "Protect nature.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "environment",
+        "translation": "环境",
+        "pronunciation": "/ɪnˈvaɪrənmənt/",
+        "example": "Clean environment.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "earth",
+        "translation": "地球",
+        "pronunciation": "/ɜːrθ/",
+        "example": "Planet Earth.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "world",
+        "translation": "世界",
+        "pronunciation": "/wɜːrld/",
+        "example": "Around the world.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "land",
+        "translation": "陆地",
+        "pronunciation": "/lænd/",
+        "example": "Buy land.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "sea",
+        "translation": "海",
+        "pronunciation": "/siː/",
+        "example": "Swim in the sea.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "ocean",
+        "translation": "海洋",
+        "pronunciation": "/ˈoʊʃən/",
+        "example": "Pacific Ocean.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "river",
+        "translation": "河流",
+        "pronunciation": "/ˈrɪvər/",
+        "example": "Cross the river.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "lake",
+        "translation": "湖",
+        "pronunciation": "/leɪk/",
+        "example": "A calm lake.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "mountain",
+        "translation": "山",
+        "pronunciation": "/ˈmaʊntən/",
+        "example": "Climb a mountain.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "hill",
+        "translation": "小山",
+        "pronunciation": "/hɪl/",
+        "example": "Up the hill.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "forest",
+        "translation": "森林",
+        "pronunciation": "/ˈfɔːrɪst/",
+        "example": "Walk in the forest.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "jungle",
+        "translation": "丛林",
+        "pronunciation": "/ˈdʒʌŋɡəl/",
+        "example": "Wild jungle.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "desert",
+        "translation": "沙漠",
+        "pronunciation": "/ˈdezərt/",
+        "example": "Hot desert.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "sky",
+        "translation": "天空",
+        "pronunciation": "/skaɪ/",
+        "example": "Blue sky.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "sun",
+        "translation": "太阳",
+        "pronunciation": "/sʌn/",
+        "example": "The sun rises.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "moon",
+        "translation": "月亮",
+        "pronunciation": "/muːn/",
+        "example": "Full moon.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "star",
+        "translation": "星星",
+        "pronunciation": "/stɑːr/",
+        "example": "Shooting star.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "cloud",
+        "translation": "云",
+        "pronunciation": "/klaʊd/",
+        "example": "White cloud.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "rain",
+        "translation": "雨",
+        "pronunciation": "/reɪn/",
+        "example": "Let it rain.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "snow",
+        "translation": "雪",
+        "pronunciation": "/snoʊ/",
+        "example": "Let it snow.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "wind",
+        "translation": "风",
+        "pronunciation": "/wɪnd/",
+        "example": "Strong wind.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "storm",
+        "translation": "风暴",
+        "pronunciation": "/stɔːrm/",
+        "example": "A big storm.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "weather",
+        "translation": "天气",
+        "pronunciation": "/ˈweðər/",
+        "example": "Nice weather.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "climate",
+        "translation": "气候",
+        "pronunciation": "/ˈklaɪmət/",
+        "example": "Climate change.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "hot",
+        "translation": "热的",
+        "pronunciation": "/hɒt/",
+        "example": "Hot summer.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "cold",
+        "translation": "冷的",
+        "pronunciation": "/koʊld/",
+        "example": "Cold winter.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "warm",
+        "translation": "温暖的",
+        "pronunciation": "/wɔːrm/",
+        "example": "Warm spring.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "cool",
+        "translation": "凉爽的",
+        "pronunciation": "/kuːl/",
+        "example": "Cool autumn.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "dry",
+        "translation": "干的",
+        "pronunciation": "/draɪ/",
+        "example": "Dry season.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "wet",
+        "translation": "湿的",
+        "pronunciation": "/wet/",
+        "example": "Wet ground.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "animal",
+        "translation": "动物",
+        "pronunciation": "/ˈænɪməl/",
+        "example": "Wild animal.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "plant",
+        "translation": "植物",
+        "pronunciation": "/plænt/",
+        "example": "Green plant.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "tree",
+        "translation": "树",
+        "pronunciation": "/triː/",
+        "example": "Tall tree.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "flower",
+        "translation": "花",
+        "pronunciation": "/ˈflaʊər/",
+        "example": "Beautiful flower.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "grass",
+        "translation": "草",
+        "pronunciation": "/ɡræs/",
+        "example": "Green grass.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "leaf",
+        "translation": "叶子",
+        "pronunciation": "/liːf/",
+        "example": "Red leaf.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "root",
+        "translation": "根",
+        "pronunciation": "/ruːt/",
+        "example": "Tree root.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "seed",
+        "translation": "种子",
+        "pronunciation": "/siːd/",
+        "example": "Plant a seed.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "farm",
+        "translation": "农场",
+        "pronunciation": "/fɑːrm/",
+        "example": "Work on a farm.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "dog",
+        "translation": "狗",
+        "pronunciation": "/dɒɡ/",
+        "example": "My pet dog.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "cat",
+        "translation": "猫",
+        "pronunciation": "/kæt/",
+        "example": "Sleepy cat.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "bird",
+        "translation": "鸟",
+        "pronunciation": "/bɜːrd/",
+        "example": "Singing bird.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "fish",
+        "translation": "鱼",
+        "pronunciation": "/fɪʃ/",
+        "example": "Swim like a fish.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "horse",
+        "translation": "马",
+        "pronunciation": "/hɔːrs/",
+        "example": "Ride a horse.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "cow",
+        "translation": "牛",
+        "pronunciation": "/kaʊ/",
+        "example": "Dairy cow.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "pig",
+        "translation": "猪",
+        "pronunciation": "/pɪɡ/",
+        "example": "Fat pig.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "sheep",
+        "translation": "羊",
+        "pronunciation": "/ʃiːp/",
+        "example": "Wool from sheep.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "chicken",
+        "translation": "鸡",
+        "pronunciation": "/ˈtʃɪkɪn/",
+        "example": "Fried chicken.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "lion",
+        "translation": "狮子",
+        "pronunciation": "/ˈlaɪən/",
+        "example": "King lion.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "tiger",
+        "translation": "老虎",
+        "pronunciation": "/ˈtaɪɡər/",
+        "example": "Fierce tiger.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "bear",
+        "translation": "熊",
+        "pronunciation": "/ber/",
+        "example": "Brown bear.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "monkey",
+        "translation": "猴子",
+        "pronunciation": "/ˈmʌŋki/",
+        "example": "Funny monkey.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "elephant",
+        "translation": "大象",
+        "pronunciation": "/ˈelɪfənt/",
+        "example": "Big elephant.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "snake",
+        "translation": "蛇",
+        "pronunciation": "/sneɪk/",
+        "example": "Scary snake.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "insect",
+        "translation": "昆虫",
+        "pronunciation": "/ˈɪnsekt/",
+        "example": "Small insect.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "fly",
+        "translation": "苍蝇；飞",
+        "pronunciation": "/flaɪ/",
+        "example": "A fly on the wall.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "bee",
+        "translation": "蜜蜂",
+        "pronunciation": "/biː/",
+        "example": "Buzzing bee.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "fire",
+        "translation": "火",
+        "pronunciation": "/ˈfaɪər/",
+        "example": "Camp fire.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "ice",
+        "translation": "冰",
+        "pronunciation": "/aɪs/",
+        "example": "Ice cold.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "stone",
+        "translation": "石头",
+        "pronunciation": "/stoʊn/",
+        "example": "Hard as stone.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "rock",
+        "translation": "岩石",
+        "pronunciation": "/rɒk/",
+        "example": "Climb a rock.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "sand",
+        "translation": "沙子",
+        "pronunciation": "/sænd/",
+        "example": "Sand castle.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "dust",
+        "translation": "尘土",
+        "pronunciation": "/dʌst/",
+        "example": "Wipe the dust.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "air",
+        "translation": "空气",
+        "pronunciation": "/er/",
+        "example": "Clean air.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "gas",
+        "translation": "气体",
+        "pronunciation": "/ɡæs/",
+        "example": "Natural gas.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "energy",
+        "translation": "能量",
+        "pronunciation": "/ˈenərdʒi/",
+        "example": "Solar energy.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "power",
+        "translation": "动力",
+        "pronunciation": "/ˈpaʊər/",
+        "example": "Wind power.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "light",
+        "translation": "光",
+        "pronunciation": "/laɪt/",
+        "example": "Sun light.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "dark",
+        "translation": "黑暗",
+        "pronunciation": "/dɑːrk/",
+        "example": "Dark night.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "color",
+        "translation": "颜色",
+        "pronunciation": "/ˈkʌlər/",
+        "example": "Bright color.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "red",
+        "translation": "红色",
+        "pronunciation": "/red/",
+        "example": "Red rose.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "blue",
+        "translation": "蓝色",
+        "pronunciation": "/bluː/",
+        "example": "Blue sea.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "green",
+        "translation": "绿色",
+        "pronunciation": "/ɡriːn/",
+        "example": "Green grass.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "yellow",
+        "translation": "黄色",
+        "pronunciation": "/ˈjeloʊ/",
+        "example": "Yellow sun.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "black",
+        "translation": "黑色",
+        "pronunciation": "/blæk/",
+        "example": "Black cat.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "white",
+        "translation": "白色",
+        "pronunciation": "/waɪt/",
+        "example": "White snow.",
+        "tags": [
+            "general",
+            "nature"
+        ]
+    },
+    {
+        "word": "idea",
+        "translation": "主意",
+        "pronunciation": "/aɪˈdiːə/",
+        "example": "A bright idea.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "concept",
+        "translation": "概念",
+        "pronunciation": "/ˈkɒnsept/",
+        "example": "Abstract concept.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "theory",
+        "translation": "理论",
+        "pronunciation": "/ˈθɪəri/",
+        "example": "In theory.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "method",
+        "translation": "方法",
+        "pronunciation": "/ˈmeθəd/",
+        "example": "Scientific method.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "system",
+        "translation": "系统",
+        "pronunciation": "/ˈsɪstəm/",
+        "example": "Solar system.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "structure",
+        "translation": "结构",
+        "pronunciation": "/ˈstrʌktʃər/",
+        "example": "Building structure.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "analysis",
+        "translation": "分析",
+        "pronunciation": "/əˈnæləsɪs/",
+        "example": "In-depth analysis.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "process",
+        "translation": "过程",
+        "pronunciation": "/ˈproʊses/",
+        "example": "Learning process.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "quality",
+        "translation": "质量",
+        "pronunciation": "/ˈkwɒlɪti/",
+        "example": "High quality.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "quantity",
+        "translation": "数量",
+        "pronunciation": "/ˈkwɒntɪti/",
+        "example": "Large quantity.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "reason",
+        "translation": "理由",
+        "pronunciation": "/ˈriːzən/",
+        "example": "Good reason.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "cause",
+        "translation": "原因",
+        "pronunciation": "/kɔːz/",
+        "example": "Cause and effect.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "effect",
+        "translation": "效果",
+        "pronunciation": "/ɪˈfekt/",
+        "example": "Side effect.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "result",
+        "translation": "结果",
+        "pronunciation": "/rɪˈzʌlt/",
+        "example": "Final result.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "purpose",
+        "translation": "目的",
+        "pronunciation": "/ˈpɜːrpəs/",
+        "example": "What is the purpose?",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "goal",
+        "translation": "目标",
+        "pronunciation": "/ɡoʊl/",
+        "example": "Set a goal.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "target",
+        "translation": "靶子；目标",
+        "pronunciation": "/ˈtɑːrɡɪt/",
+        "example": "Hit the target.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "plan",
+        "translation": "计划",
+        "pronunciation": "/plæn/",
+        "example": "Make a plan.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "strategy",
+        "translation": "策略",
+        "pronunciation": "/ˈstrætədʒi/",
+        "example": "Development strategy.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "policy",
+        "translation": "政策",
+        "pronunciation": "/ˈpɒlɪsi/",
+        "example": "New policy.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "law",
+        "translation": "法律",
+        "pronunciation": "/lɔː/",
+        "example": "Against the law.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "rule",
+        "translation": "规则",
+        "pronunciation": "/ruːl/",
+        "example": "Follow the rule.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "principle",
+        "translation": "原则",
+        "pronunciation": "/ˈprɪnsɪpəl/",
+        "example": "Basic principle.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "standard",
+        "translation": "标准",
+        "pronunciation": "/ˈstændərd/",
+        "example": "High standard.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "culture",
+        "translation": "文化",
+        "pronunciation": "/ˈkʌltʃər/",
+        "example": "Pop culture.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "tradition",
+        "translation": "传统",
+        "pronunciation": "/trəˈdɪʃən/",
+        "example": "Family tradition.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "history",
+        "translation": "历史",
+        "pronunciation": "/ˈhɪstəri/",
+        "example": "Ancient history.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "future",
+        "translation": "未来",
+        "pronunciation": "/ˈfjuːtʃər/",
+        "example": "In the future.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "past",
+        "translation": "过去",
+        "pronunciation": "/pæst/",
+        "example": "In the past.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "present",
+        "translation": "现在",
+        "pronunciation": "/ˈprezənt/",
+        "example": "At present.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "society",
+        "translation": "社会",
+        "pronunciation": "/səˈsaɪəti/",
+        "example": "Modern society.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "community",
+        "translation": "社区",
+        "pronunciation": "/kəˈmjuːnəti/",
+        "example": "Local community.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "nation",
+        "translation": "国家",
+        "pronunciation": "/ˈneɪʃən/",
+        "example": "The whole nation.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "government",
+        "translation": "政府",
+        "pronunciation": "/ˈɡʌvərnmənt/",
+        "example": "The government decides.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "freedom",
+        "translation": "自由",
+        "pronunciation": "/ˈfriːdəm/",
+        "example": "Freedom of speech.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "liberty",
+        "translation": "自由",
+        "pronunciation": "/ˈlɪbərti/",
+        "example": "Statue of Liberty.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "justice",
+        "translation": "正义",
+        "pronunciation": "/ˈdʒʌstɪs/",
+        "example": "Seek justice.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "peace",
+        "translation": "和平",
+        "pronunciation": "/piːs/",
+        "example": "World peace.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "war",
+        "translation": "战争",
+        "pronunciation": "/wɔːr/",
+        "example": "Civil war.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "conflict",
+        "translation": "冲突",
+        "pronunciation": "/ˈkɒnflɪkt/",
+        "example": "Avoid conflict.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "art",
+        "translation": "艺术",
+        "pronunciation": "/ɑːrt/",
+        "example": "Work of art.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "music",
+        "translation": "音乐",
+        "pronunciation": "/ˈmjuːzɪk/",
+        "example": "Classical music.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "literature",
+        "translation": "文学",
+        "pronunciation": "/ˈlɪtərətʃər/",
+        "example": "English literature.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "poetry",
+        "translation": "诗歌",
+        "pronunciation": "/ˈpoʊɪtri/",
+        "example": "Write poetry.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "meaning",
+        "translation": "意义",
+        "pronunciation": "/ˈmiːnɪŋ/",
+        "example": "Meaning of life.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "value",
+        "translation": "价值观",
+        "pronunciation": "/ˈvæljuː/",
+        "example": "Moral values.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "belief",
+        "translation": "信仰",
+        "pronunciation": "/bɪˈliːf/",
+        "example": "Strong belief.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "faith",
+        "translation": "信念",
+        "pronunciation": "/feɪθ/",
+        "example": "Have faith.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "religion",
+        "translation": "宗教",
+        "pronunciation": "/rɪˈlɪdʒən/",
+        "example": "Freedom of religion.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "science",
+        "translation": "科学",
+        "pronunciation": "/ˈsaɪəns/",
+        "example": "Modern science.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "truth",
+        "translation": "真理",
+        "pronunciation": "/truːθ/",
+        "example": "Tell the truth.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "lie",
+        "translation": "谎言",
+        "pronunciation": "/laɪ/",
+        "example": "A big lie.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "fact",
+        "translation": "事实",
+        "pronunciation": "/fækt/",
+        "example": "Scientific fact.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "opinion",
+        "translation": "观点",
+        "pronunciation": "/əˈpɪnjən/",
+        "example": "My opinion.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "knowledge",
+        "translation": "知识",
+        "pronunciation": "/ˈnɒlɪdʒ/",
+        "example": "General knowledge.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "wisdom",
+        "translation": "智慧",
+        "pronunciation": "/ˈwɪzdəm/",
+        "example": "Words of wisdom.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "power",
+        "translation": "权力",
+        "pronunciation": "/ˈpaʊər/",
+        "example": "Political power.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "money",
+        "translation": "金钱",
+        "pronunciation": "/ˈmʌni/",
+        "example": "Time is money.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "time",
+        "translation": "时间",
+        "pronunciation": "/taɪm/",
+        "example": "Waste time.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "space",
+        "translation": "空间",
+        "pronunciation": "/speɪs/",
+        "example": "Outer space.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "form",
+        "translation": "形式",
+        "pronunciation": "/fɔːrm/",
+        "example": "Fill the form.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "chance",
+        "translation": "机会",
+        "pronunciation": "/tʃæns/",
+        "example": "Take a chance.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "change",
+        "translation": "改变",
+        "pronunciation": "/tʃeɪndʒ/",
+        "example": "Change is good.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "development",
+        "translation": "发展",
+        "pronunciation": "/dɪˈveləpmənt/",
+        "example": "Economic development.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "growth",
+        "translation": "生长",
+        "pronunciation": "/ɡroʊθ/",
+        "example": "Personal growth.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "success",
+        "translation": "成功",
+        "pronunciation": "/səkˈses/",
+        "example": "Huge success.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "failure",
+        "translation": "失败",
+        "pronunciation": "/ˈfeɪljər/",
+        "example": "Fear of failure.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "problem",
+        "translation": "问题",
+        "pronunciation": "/ˈprɒbləm/",
+        "example": "Solve a problem.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "solution",
+        "translation": "解决方案",
+        "pronunciation": "/səˈluːʃən/",
+        "example": "Find a solution.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "decision",
+        "translation": "决定",
+        "pronunciation": "/dɪˈsɪʒən/",
+        "example": "Make a decision.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "choice",
+        "translation": "选择",
+        "pronunciation": "/tʃɔɪs/",
+        "example": "Good choice.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "option",
+        "translation": "选项",
+        "pronunciation": "/ˈɒpʃən/",
+        "example": "Two options.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "possibility",
+        "translation": "可能性",
+        "pronunciation": "/ˌpɒsɪˈbɪləti/",
+        "example": "No possibility.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "probability",
+        "translation": "概率",
+        "pronunciation": "/ˌprɒbəˈbɪləti/",
+        "example": "High probability.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "risk",
+        "translation": "风险",
+        "pronunciation": "/rɪsk/",
+        "example": "Take a risk.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "danger",
+        "translation": "危险",
+        "pronunciation": "/ˈdeɪndʒər/",
+        "example": "In danger.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "safety",
+        "translation": "安全",
+        "pronunciation": "/ˈseɪfti/",
+        "example": "Safety first.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "health",
+        "translation": "健康",
+        "pronunciation": "/helθ/",
+        "example": "Good health.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "wealth",
+        "translation": "财富",
+        "pronunciation": "/welθ/",
+        "example": "Health over wealth.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "poverty",
+        "translation": "贫穷",
+        "pronunciation": "/ˈpɒvərti/",
+        "example": "Fight poverty.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "happiness",
+        "translation": "幸福",
+        "pronunciation": "/ˈhæpinəs/",
+        "example": "Pursuit of happiness.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "sadness",
+        "translation": "悲伤",
+        "pronunciation": "/ˈsædnəs/",
+        "example": "Feel sadness.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "emotion",
+        "translation": "情绪",
+        "pronunciation": "/ɪˈmoʊʃən/",
+        "example": "Strong emotion.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "feeling",
+        "translation": "感觉",
+        "pronunciation": "/ˈfiːlɪŋ/",
+        "example": "Gut feeling.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "mind",
+        "translation": "头脑",
+        "pronunciation": "/maɪnd/",
+        "example": "Open mind.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "soul",
+        "translation": "灵魂",
+        "pronunciation": "/soʊl/",
+        "example": "Lost soul.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "spirit",
+        "translation": "精神",
+        "pronunciation": "/ˈspɪrɪt/",
+        "example": "Free spirit.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "body",
+        "translation": "身体",
+        "pronunciation": "/ˈbɒdi/",
+        "example": "Human body.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "life",
+        "translation": "生活",
+        "pronunciation": "/laɪf/",
+        "example": "Enjoy life.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "death",
+        "translation": "死亡",
+        "pronunciation": "/deθ/",
+        "example": "Life and death.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "birth",
+        "translation": "出生",
+        "pronunciation": "/bɜːrθ/",
+        "example": "Date of birth.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "age",
+        "translation": "年龄",
+        "pronunciation": "/eɪdʒ/",
+        "example": "Middle age.",
+        "tags": [
+            "general",
+            "abstract"
+        ]
+    },
+    {
+        "word": "algorithm",
+        "translation": "算法",
+        "pronunciation": "/ˈælɡərɪðəm/",
+        "example": "Sorting algorithm.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "program",
+        "translation": "程序",
+        "pronunciation": "/ˈproʊɡræm/",
+        "example": "Run the program.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "code",
+        "translation": "代码",
+        "pronunciation": "/koʊd/",
+        "example": "Write clean code.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "software",
+        "translation": "软件",
+        "pronunciation": "/ˈsɔːftwer/",
+        "example": "Open source software.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "application",
+        "translation": "应用",
+        "pronunciation": "/ˌæplɪˈkeɪʃən/",
+        "example": "Web application.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "developer",
+        "translation": "开发者",
+        "pronunciation": "/dɪˈveləpər/",
+        "example": "Software developer.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "database",
+        "translation": "数据库",
+        "pronunciation": "/ˈdeɪtəbeɪs/",
+        "example": "SQL database.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "server",
+        "translation": "服务器",
+        "pronunciation": "/ˈsɜːrvər/",
+        "example": "Connect to server.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "client",
+        "translation": "客户端",
+        "pronunciation": "/ˈklaɪənt/",
+        "example": "Client side.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "frontend",
+        "translation": "前端",
+        "pronunciation": "/ˈfrʌntend/",
+        "example": "Frontend framework.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "backend",
+        "translation": "后端",
+        "pronunciation": "/ˈbækend/",
+        "example": "Backend logic.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "fullstack",
+        "translation": "全栈",
+        "pronunciation": "/ˈfʊlstæk/",
+        "example": "Fullstack engineer.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "cloud",
+        "translation": "云",
+        "pronunciation": "/klaʊd/",
+        "example": "Cloud computing.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "api",
+        "translation": "API接口",
+        "pronunciation": "/ˌeɪpiˈaɪ/",
+        "example": "RESTful API.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "framework",
+        "translation": "框架",
+        "pronunciation": "/ˈfreɪmwɜːrk/",
+        "example": "React framework.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "library",
+        "translation": "库",
+        "pronunciation": "/ˈlaɪbrəri/",
+        "example": "Standard library.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "variable",
+        "translation": "变量",
+        "pronunciation": "/ˈveriəbəl/",
+        "example": "Define a variable.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "constant",
+        "translation": "常量",
+        "pronunciation": "/ˈkɒnstənt/",
+        "example": "Constant value.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "function",
+        "translation": "函数",
+        "pronunciation": "/ˈfʌŋkʃən/",
+        "example": "Call a function.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "method",
+        "translation": "方法",
+        "pronunciation": "/ˈmeθəd/",
+        "example": "Class method.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "class",
+        "translation": "类",
+        "pronunciation": "/klæs/",
+        "example": "Object class.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "object",
+        "translation": "对象",
+        "pronunciation": "/ˈɒbdʒɪkt/",
+        "example": "JSON object.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "array",
+        "translation": "数组",
+        "pronunciation": "/əˈreɪ/",
+        "example": "Sort the array.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "string",
+        "translation": "字符串",
+        "pronunciation": "/strɪŋ/",
+        "example": "Text string.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "number",
+        "translation": "数字",
+        "pronunciation": "/ˈnʌmbər/",
+        "example": "Integer number.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "boolean",
+        "translation": "布尔值",
+        "pronunciation": "/ˈbuːliən/",
+        "example": "True or false.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "loop",
+        "translation": "循环",
+        "pronunciation": "/luːp/",
+        "example": "For loop.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "condition",
+        "translation": "条件",
+        "pronunciation": "/kənˈdɪʃən/",
+        "example": "If condition.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "bug",
+        "translation": "程序错误",
+        "pronunciation": "/bʌɡ/",
+        "example": "Fix the bug.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "debug",
+        "translation": "调试",
+        "pronunciation": "/diːˈbʌɡ/",
+        "example": "Debug mode.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "error",
+        "translation": "错误",
+        "pronunciation": "/ˈerər/",
+        "example": "Syntax error.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "exception",
+        "translation": "异常",
+        "pronunciation": "/ɪkˈsepʃən/",
+        "example": "Catch exception.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "compile",
+        "translation": "编译",
+        "pronunciation": "/kəmˈpaɪl/",
+        "example": "Compile code.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "deploy",
+        "translation": "部署",
+        "pronunciation": "/dɪˈplɔɪ/",
+        "example": "Deploy to production.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "version",
+        "translation": "版本",
+        "pronunciation": "/ˈvɜːrʒən/",
+        "example": "Version control.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "git",
+        "translation": "Git",
+        "pronunciation": "/ɡɪt/",
+        "example": "Git commit.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "repository",
+        "translation": "仓库",
+        "pronunciation": "/rɪˈpɒzɪtɔːri/",
+        "example": "Code repository.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "branch",
+        "translation": "分支",
+        "pronunciation": "/bræntʃ/",
+        "example": "Git branch.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "merge",
+        "translation": "合并",
+        "pronunciation": "/mɜːrdʒ/",
+        "example": "Merge request.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "commit",
+        "translation": "提交",
+        "pronunciation": "/kəˈmɪt/",
+        "example": "Commit changes.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "push",
+        "translation": "推送",
+        "pronunciation": "/pʊʃ/",
+        "example": "Push to remote.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "pull",
+        "translation": "拉取",
+        "pronunciation": "/pʊl/",
+        "example": "Pull updates.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "issue",
+        "translation": "问题",
+        "pronunciation": "/ˈɪʃuː/",
+        "example": "Open an issue.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "request",
+        "translation": "请求",
+        "pronunciation": "/rɪˈkwest/",
+        "example": "HTTP request.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "response",
+        "translation": "响应",
+        "pronunciation": "/rɪˈspɒns/",
+        "example": "Server response.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "status",
+        "translation": "状态",
+        "pronunciation": "/ˈsteɪtəs/",
+        "example": "Status code.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "token",
+        "translation": "令牌",
+        "pronunciation": "/ˈtoʊkən/",
+        "example": "Auth token.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "user",
+        "translation": "用户",
+        "pronunciation": "/ˈjuːzər/",
+        "example": "User login.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "admin",
+        "translation": "管理员",
+        "pronunciation": "/ˈædmɪn/",
+        "example": "Admin panel.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "root",
+        "translation": "根",
+        "pronunciation": "/ruːt/",
+        "example": "Root directory.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "shell",
+        "translation": "壳层",
+        "pronunciation": "/ʃel/",
+        "example": "Shell script.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "terminal",
+        "translation": "终端",
+        "pronunciation": "/ˈtɜːrmɪnəl/",
+        "example": "Open terminal.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "command",
+        "translation": "命令",
+        "pronunciation": "/kəˈmænd/",
+        "example": "Run command.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "script",
+        "translation": "脚本",
+        "pronunciation": "/skrɪpt/",
+        "example": "Python script.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "test",
+        "translation": "测试",
+        "pronunciation": "/test/",
+        "example": "Unit test.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "design",
+        "translation": "设计",
+        "pronunciation": "/dɪˈzaɪn/",
+        "example": "System design.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "pattern",
+        "translation": "模式",
+        "pronunciation": "/ˈpætərn/",
+        "example": "Design pattern.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "parameter",
+        "translation": "参数",
+        "pronunciation": "/pəˈræmɪtər/",
+        "example": "Function parameter.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "argument",
+        "translation": "实参",
+        "pronunciation": "/ˈɑːrɡjʊmənt/",
+        "example": "Pass arguments.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "return",
+        "translation": "返回",
+        "pronunciation": "/rɪˈtɜːrn/",
+        "example": "Return value.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "void",
+        "translation": "空",
+        "pronunciation": "/vɔɪd/",
+        "example": "Void function.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "null",
+        "translation": "空值",
+        "pronunciation": "/nʌl/",
+        "example": "Return null.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "undefined",
+        "translation": "未定义",
+        "pronunciation": "/ˌʌndɪˈfaɪnd/",
+        "example": "Undefined variable.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "int",
+        "translation": "整型",
+        "pronunciation": "/ɪnt/",
+        "example": "Int type.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "float",
+        "translation": "浮点型",
+        "pronunciation": "/floʊt/",
+        "example": "Float number.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "char",
+        "translation": "字符",
+        "pronunciation": "/tʃɑːr/",
+        "example": "Character type.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "list",
+        "translation": "列表",
+        "pronunciation": "/lɪst/",
+        "example": "Linked list.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "map",
+        "translation": "映射",
+        "pronunciation": "/mæp/",
+        "example": "Hash map.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "set",
+        "translation": "集合",
+        "pronunciation": "/set/",
+        "example": "Data set.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "queue",
+        "translation": "队列",
+        "pronunciation": "/kjuː/",
+        "example": "Message queue.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "stack",
+        "translation": "栈",
+        "pronunciation": "/stæk/",
+        "example": "Call stack.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "tree",
+        "translation": "树",
+        "pronunciation": "/triː/",
+        "example": "Binary tree.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "graph",
+        "translation": "图",
+        "pronunciation": "/ɡræf/",
+        "example": "Graph theory.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "node",
+        "translation": "节点",
+        "pronunciation": "/noʊd/",
+        "example": "Graph node.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "edge",
+        "translation": "边",
+        "pronunciation": "/edʒ/",
+        "example": "Graph edge.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "link",
+        "translation": "链接",
+        "pronunciation": "/lɪŋk/",
+        "example": "Hyperlink.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "pixel",
+        "translation": "像素",
+        "pronunciation": "/ˈpɪksəl/",
+        "example": "Pixel art.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "click",
+        "translation": "点击",
+        "pronunciation": "/klɪk/",
+        "example": "On click.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "hover",
+        "translation": "悬停",
+        "pronunciation": "/ˈhʌvər/",
+        "example": "Hover effect.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "scroll",
+        "translation": "滚动",
+        "pronunciation": "/skroʊl/",
+        "example": "Scroll down.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "domain",
+        "translation": "域名",
+        "pronunciation": "/doʊˈmeɪn/",
+        "example": "Domain name.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "host",
+        "translation": "主机",
+        "pronunciation": "/hoʊst/",
+        "example": "Local host.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "port",
+        "translation": "端口",
+        "pronunciation": "/pɔːrt/",
+        "example": "Port 8080.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "protocol",
+        "translation": "协议",
+        "pronunciation": "/ˈproʊtəkɒl/",
+        "example": "HTTP protocol.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "security",
+        "translation": "安全",
+        "pronunciation": "/sɪˈkjuːrɪti/",
+        "example": "Web security.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "encrypt",
+        "translation": "加密",
+        "pronunciation": "/ɪnˈkrɪpt/",
+        "example": "Encrypt data.",
+        "tags": [
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "word": "north",
+        "translation": "北",
+        "pronunciation": "/nɔːrθ/",
+        "example": "Face north.",
+        "tags": [
+            "general",
+            "direction"
+        ]
+    },
+    {
+        "word": "south",
+        "translation": "南",
+        "pronunciation": "/saʊθ/",
+        "example": "Go south.",
+        "tags": [
+            "general",
+            "direction"
+        ]
+    },
+    {
+        "word": "east",
+        "translation": "东",
+        "pronunciation": "/iːst/",
+        "example": "Sun rises in the east.",
+        "tags": [
+            "general",
+            "direction"
+        ]
+    },
+    {
+        "word": "west",
+        "translation": "西",
+        "pronunciation": "/west/",
+        "example": "Go west.",
+        "tags": [
+            "general",
+            "direction"
+        ]
+    },
+    {
+        "word": "direction",
+        "translation": "方向",
+        "pronunciation": "/dɪˈrekʃən/",
+        "example": "Wrong direction.",
+        "tags": [
+            "general",
+            "direction"
+        ]
+    },
+    {
+        "word": "map",
+        "translation": "地图",
+        "pronunciation": "/mæp/",
+        "example": "Read a map.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "travel",
+        "translation": "旅行",
+        "pronunciation": "/ˈtrævəl/",
+        "example": "Travel the world.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "trip",
+        "translation": "旅程",
+        "pronunciation": "/trɪp/",
+        "example": "Short trip.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "ticket",
+        "translation": "票",
+        "pronunciation": "/ˈtɪkɪt/",
+        "example": "Buy a ticket.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "passport",
+        "translation": "护照",
+        "pronunciation": "/ˈpæspɔːrt/",
+        "example": "Show your passport.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "airport",
+        "translation": "机场",
+        "pronunciation": "/ˈerpɔːrt/",
+        "example": "Go to the airport.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "train",
+        "translation": "火车",
+        "pronunciation": "/treɪn/",
+        "example": "Catch the train.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "bus",
+        "translation": "公共汽车",
+        "pronunciation": "/bʌs/",
+        "example": "Bus stop.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "flight",
+        "translation": "航班",
+        "pronunciation": "/flaɪt/",
+        "example": "Book a flight.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "hotel",
+        "translation": "酒店",
+        "pronunciation": "/hoʊˈtel/",
+        "example": "Stay in a hotel.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "room",
+        "translation": "房间",
+        "pronunciation": "/ruːm/",
+        "example": "Book a room.",
+        "tags": [
+            "general",
+            "travel"
+        ]
+    },
+    {
+        "word": "bed",
+        "translation": "床",
+        "pronunciation": "/bed/",
+        "example": "Go to bed.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "sleep",
+        "translation": "睡觉",
+        "pronunciation": "/sliːp/",
+        "example": "Sleep well.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "wake",
+        "translation": "醒来",
+        "pronunciation": "/weɪk/",
+        "example": "Wake up early.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "eat",
+        "translation": "吃",
+        "pronunciation": "/iːt/",
+        "example": "Eat breakfast.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "drink",
+        "translation": "喝",
+        "pronunciation": "/drɪŋk/",
+        "example": "Drink water.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "breakfast",
+        "translation": "早餐",
+        "pronunciation": "/ˈbrekfəst/",
+        "example": "Have breakfast.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "lunch",
+        "translation": "午餐",
+        "pronunciation": "/lʌntʃ/",
+        "example": "Eat lunch.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "dinner",
+        "translation": "晚餐",
+        "pronunciation": "/ˈdɪnər/",
+        "example": "Cook dinner.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "cook",
+        "translation": "烹饪",
+        "pronunciation": "/kʊk/",
+        "example": "Cook a meal.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "kitchen",
+        "translation": "厨房",
+        "pronunciation": "/ˈkɪtʃɪn/",
+        "example": "Clean kitchen.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "restaurant",
+        "translation": "餐厅",
+        "pronunciation": "/ˈrestərɒnt/",
+        "example": "Nice restaurant.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "menu",
+        "translation": "菜单",
+        "pronunciation": "/ˈmenjuː/",
+        "example": "Read the menu.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "order",
+        "translation": "点餐",
+        "pronunciation": "/ˈɔːrdər/",
+        "example": "Order food.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "bill",
+        "translation": "账单",
+        "pronunciation": "/bɪl/",
+        "example": "Pay the bill.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "fruit",
+        "translation": "水果",
+        "pronunciation": "/fruːt/",
+        "example": "Fresh fruit.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "vegetable",
+        "translation": "蔬菜",
+        "pronunciation": "/ˈvedʒtəbəl/",
+        "example": "Eat vegetables.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "meat",
+        "translation": "肉",
+        "pronunciation": "/miːt/",
+        "example": "Red meat.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "bread",
+        "translation": "面包",
+        "pronunciation": "/bred/",
+        "example": "Bake bread.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "rice",
+        "translation": "米饭",
+        "pronunciation": "/raɪs/",
+        "example": "Bowl of rice.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "noodle",
+        "translation": "面条",
+        "pronunciation": "/ˈnuːdl/",
+        "example": "Eating noodles.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "soup",
+        "translation": "汤",
+        "pronunciation": "/suːp/",
+        "example": "Hot soup.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "coffee",
+        "translation": "咖啡",
+        "pronunciation": "/ˈkɒfi/",
+        "example": "Cup of coffee.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "tea",
+        "translation": "茶",
+        "pronunciation": "/tiː/",
+        "example": "Green tea.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "milk",
+        "translation": "牛奶",
+        "pronunciation": "/mɪlk/",
+        "example": "Drink milk.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "sugar",
+        "translation": "糖",
+        "pronunciation": "/ˈʃʊɡər/",
+        "example": "Add sugar.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "salt",
+        "translation": "盐",
+        "pronunciation": "/sɔːlt/",
+        "example": "Pass the salt.",
+        "tags": [
+            "general",
+            "food"
+        ]
+    },
+    {
+        "word": "sport",
+        "translation": "运动",
+        "pronunciation": "/spɔːrt/",
+        "example": "Play sports.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "ball",
+        "translation": "球",
+        "pronunciation": "/bɔːl/",
+        "example": "Kick the ball.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "game",
+        "translation": "比赛",
+        "pronunciation": "/ɡeɪm/",
+        "example": "Football game.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "player",
+        "translation": "运动员",
+        "pronunciation": "/ˈpleɪər/",
+        "example": "Best player.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "run",
+        "translation": "跑步",
+        "pronunciation": "/rʌn/",
+        "example": "Run fast.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "jump",
+        "translation": "跳",
+        "pronunciation": "/dʒʌmp/",
+        "example": "Jump high.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "swim",
+        "translation": "游泳",
+        "pronunciation": "/swɪm/",
+        "example": "Swim in the pool.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "walk",
+        "translation": "走路",
+        "pronunciation": "/wɔːk/",
+        "example": "Walk to work.",
+        "tags": [
+            "general",
+            "sport"
+        ]
+    },
+    {
+        "word": "health",
+        "translation": "健康",
+        "pronunciation": "/helθ/",
+        "example": "Good health.",
+        "tags": [
+            "general",
+            "health"
+        ]
+    },
+    {
+        "word": "doctor",
+        "translation": "医生",
+        "pronunciation": "/ˈdɒktər/",
+        "example": "See a doctor.",
+        "tags": [
+            "general",
+            "health"
+        ]
+    },
+    {
+        "word": "hospital",
+        "translation": "医院",
+        "pronunciation": "/ˈhɒspɪtəl/",
+        "example": "Go to hospital.",
+        "tags": [
+            "general",
+            "health"
+        ]
+    },
+    {
+        "word": "medicine",
+        "translation": "药",
+        "pronunciation": "/ˈmedɪsɪn/",
+        "example": "Take medicine.",
+        "tags": [
+            "general",
+            "health"
+        ]
+    },
+    {
+        "word": "sick",
+        "translation": "生病的",
+        "pronunciation": "/sɪk/",
+        "example": "Feel sick.",
+        "tags": [
+            "general",
+            "health"
+        ]
+    },
+    {
+        "word": "pain",
+        "translation": "疼痛",
+        "pronunciation": "/peɪn/",
+        "example": "Feel pain.",
+        "tags": [
+            "general",
+            "health"
+        ]
+    },
+    {
+        "word": "color",
+        "translation": "颜色",
+        "pronunciation": "/ˈkʌlər/",
+        "example": "What color?",
+        "tags": [
+            "general",
+            "art"
+        ]
+    },
+    {
+        "word": "draw",
+        "translation": "画",
+        "pronunciation": "/drɔː/",
+        "example": "Draw a picture.",
+        "tags": [
+            "general",
+            "art"
+        ]
+    },
+    {
+        "word": "paint",
+        "translation": "绘画",
+        "pronunciation": "/peɪnt/",
+        "example": "Paint a wall.",
+        "tags": [
+            "general",
+            "art"
+        ]
+    },
+    {
+        "word": "sing",
+        "translation": "唱歌",
+        "pronunciation": "/sɪŋ/",
+        "example": "Sing a song.",
+        "tags": [
+            "general",
+            "art"
+        ]
+    },
+    {
+        "word": "dance",
+        "translation": "跳舞",
+        "pronunciation": "/dæns/",
+        "example": "Dance together.",
+        "tags": [
+            "general",
+            "art"
+        ]
+    },
+    {
+        "word": "song",
+        "translation": "歌曲",
+        "pronunciation": "/sɒŋ/",
+        "example": "New song.",
+        "tags": [
+            "general",
+            "art"
+        ]
+    },
+    {
+        "word": "bag",
+        "translation": "包",
+        "pronunciation": "/bæɡ/",
+        "example": "Heavy bag.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "key",
+        "translation": "钥匙",
+        "pronunciation": "/kiː/",
+        "example": "Car key.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "money",
+        "translation": "钱",
+        "pronunciation": "/ˈmʌni/",
+        "example": "Spend money.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "wallet",
+        "translation": "钱包",
+        "pronunciation": "/ˈwɒlɪt/",
+        "example": "Lost wallet.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    },
+    {
+        "word": "watch",
+        "translation": "手表",
+        "pronunciation": "/wɒtʃ/",
+        "example": "Nice watch.",
+        "tags": [
+            "general",
+            "daily"
+        ]
+    }
+]

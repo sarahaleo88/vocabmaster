@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(lsof:*)",
+      "Bash(uipro init:*)",
+      "Skill(superpowers:brainstorming)",
+      "mcp__filesystem__list_directory",
+      "mcp__filesystem__directory_tree",
+      "mcp__filesystem__read_multiple_files",
+      "mcp__filesystem__create_directory",
+      "mcp__filesystem__write_file",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "mcp__filesystem__read_text_file",
+      "Skill(superpowers:using-git-worktrees)",
+      "Bash(git check-ignore:*)",
+      "Bash(git worktree:*)",
+      "Skill(superpowers:writing-plans)",
+      "Skill(superpowers:subagent-driven-development)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(timeout 5 npm run dev:*)",
+      "Bash(/bin/bash -c \"timeout 5 npx vite 2>&1\")",
+      "Bash(npx vite --version)",
+      "Bash(timeout 10 npm run dev:*)",
+      "Bash(pkill:*)",
+      "Bash(npx cap init VocabMaster com.vocabmaster.app --web-dir dist)",
+      "Bash(npm run build:*)",
+      "Bash(npx cap:*)",
+      "Bash(git -C /Users/lixiansheng/Desktop/test/.worktrees/vocabmaster status)",
+      "Bash(git -C /Users/lixiansheng/Desktop/test/.worktrees/vocabmaster log --oneline -3)",
+      "Bash(git -C /Users/lixiansheng/Desktop/test/.worktrees/vocabmaster diff package.json)",
+      "Bash(git -C /Users/lixiansheng/Desktop/test/.worktrees/vocabmaster add:*)",
+      "Bash(git -C /Users/lixiansheng/Desktop/test/.worktrees/vocabmaster commit -m \"$\\(cat <<''EOF''\nfeat: add Capacitor with Android platform\n\n- Install @capacitor/core, @capacitor/cli, and @capacitor/android\n- Add capacitor.config.ts with app configuration\n- Add Android native project in android/ directory\n- Install TypeScript for config file support\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(find:*)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
