@@ -16,8 +16,8 @@ cd "$SCRIPT_DIR"
 
 # 配置
 REPO_NAME="vocabmaster"
-VERSION="v1.0.0"
-APK_FILE="VocabMaster-v1.0.0-release.apk"
+VERSION="v1.0.1"
+APK_FILE="VocabMaster-v1.0.1-release.apk"
 
 # 检查 gh CLI
 if ! command -v gh &> /dev/null; then

@@ -70,7 +70,7 @@ async function initializeVocabulary() {
 
     if (count === 0) {
         try {
-            const response = await fetch('/src/data/vocabulary.json');
+            const response = await fetch('/data/vocabulary.json');
             const vocabulary = await response.json();
 
             const cardsData = vocabulary.map(item => ({
