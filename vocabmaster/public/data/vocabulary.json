@@ -10100,5 +10100,1005 @@
             "programming",
             "devops"
         ]
+    },
+    {
+        "word": "stakeholder",
+        "translation": "利益相关者",
+        "pronunciation": "/ˈsteɪkˌhoʊldər/",
+        "example": "Meet with stakeholders to gather requirements.",
+        "tags": [
+            "programming",
+            "agile"
+        ]
+    },
+    {
+        "word": "retrospective",
+        "translation": "回顾会议",
+        "pronunciation": "/ˌretrəˈspektɪv/",
+        "example": "Sprint retrospective meeting.",
+        "tags": [
+            "programming",
+            "agile"
+        ]
+    },
+    {
+        "word": "velocity",
+        "translation": "开发速度",
+        "pronunciation": "/vəˈlɑːsəti/",
+        "example": "Team velocity increased this sprint.",
+        "tags": [
+            "programming",
+            "agile"
+        ]
+    },
+    {
+        "word": "burndown",
+        "translation": "燃尽图",
+        "pronunciation": "/ˈbɜːrndaʊn/",
+        "example": "Check the burndown chart.",
+        "tags": [
+            "programming",
+            "agile"
+        ]
+    },
+    {
+        "word": "acceptance",
+        "translation": "验收",
+        "pronunciation": "/əkˈseptəns/",
+        "example": "Define acceptance criteria.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "refinement",
+        "translation": "细化；精炼",
+        "pronunciation": "/rɪˈfaɪnmənt/",
+        "example": "Backlog refinement session.",
+        "tags": [
+            "programming",
+            "agile"
+        ]
+    },
+    {
+        "word": "waterfall",
+        "translation": "瀑布模型",
+        "pronunciation": "/ˈwɔːtərfɔːl/",
+        "example": "Waterfall development methodology.",
+        "tags": [
+            "programming",
+            "methodology"
+        ]
+    },
+    {
+        "word": "iterative",
+        "translation": "迭代的",
+        "pronunciation": "/ˈɪtəreɪtɪv/",
+        "example": "Iterative development approach.",
+        "tags": [
+            "programming",
+            "methodology"
+        ]
+    },
+    {
+        "word": "prototype",
+        "translation": "原型",
+        "pronunciation": "/ˈproʊtətaɪp/",
+        "example": "Build a prototype first.",
+        "tags": [
+            "programming",
+            "design"
+        ]
+    },
+    {
+        "word": "normalization",
+        "translation": "规范化",
+        "pronunciation": "/ˌnɔːrməlaɪˈzeɪʃn/",
+        "example": "Database normalization reduces redundancy.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "denormalization",
+        "translation": "反规范化",
+        "pronunciation": "/diːˌnɔːrməlaɪˈzeɪʃn/",
+        "example": "Denormalization improves read performance.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "cardinality",
+        "translation": "基数；势",
+        "pronunciation": "/ˌkɑːrdɪˈnælɪti/",
+        "example": "One-to-many cardinality relationship.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "sharding",
+        "translation": "分片",
+        "pronunciation": "/ˈʃɑːrdɪŋ/",
+        "example": "Database sharding for scalability.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "replication",
+        "translation": "复制",
+        "pronunciation": "/ˌreplɪˈkeɪʃn/",
+        "example": "Database replication for high availability.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "partition",
+        "translation": "分区",
+        "pronunciation": "/pɑːrˈtɪʃn/",
+        "example": "Table partition by date.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "cursor",
+        "translation": "游标",
+        "pronunciation": "/ˈkɜːrsər/",
+        "example": "Database cursor for iteration.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "deadlock",
+        "translation": "死锁",
+        "pronunciation": "/ˈdedlɑːk/",
+        "example": "Avoid database deadlock.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "constraint",
+        "translation": "约束",
+        "pronunciation": "/kənˈstreɪnt/",
+        "example": "Add a foreign key constraint.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "aggregate",
+        "translation": "聚合",
+        "pronunciation": "/ˈæɡrɪɡət/",
+        "example": "Aggregate function in SQL.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "materialized",
+        "translation": "物化的",
+        "pronunciation": "/məˈtɪriəlaɪzd/",
+        "example": "Materialized view for caching.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "subquery",
+        "translation": "子查询",
+        "pronunciation": "/ˈsʌbˌkwɪri/",
+        "example": "Use a subquery for filtering.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "cte",
+        "translation": "公用表表达式",
+        "pronunciation": "/siː tiː iː/",
+        "example": "CTE makes complex queries readable.",
+        "tags": [
+            "programming",
+            "database"
+        ]
+    },
+    {
+        "word": "handshake",
+        "translation": "握手",
+        "pronunciation": "/ˈhændʃeɪk/",
+        "example": "TCP three-way handshake.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "payload",
+        "translation": "有效载荷",
+        "pronunciation": "/ˈpeɪloʊd/",
+        "example": "Request payload in JSON format.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "routing",
+        "translation": "路由",
+        "pronunciation": "/ˈruːtɪŋ/",
+        "example": "Configure API routing.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "subnet",
+        "translation": "子网",
+        "pronunciation": "/ˈsʌbnet/",
+        "example": "Configure subnet mask.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "loadbalancer",
+        "translation": "负载均衡器",
+        "pronunciation": "/ˈloʊdˌbælənsər/",
+        "example": "Configure the load balancer.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "packet",
+        "translation": "数据包",
+        "pronunciation": "/ˈpækɪt/",
+        "example": "Network packet inspection.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "throttle",
+        "translation": "节流；限流",
+        "pronunciation": "/ˈθrɑːtl/",
+        "example": "API throttle rate limiting.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "heartbeat",
+        "translation": "心跳",
+        "pronunciation": "/ˈhɑːrtbiːt/",
+        "example": "Heartbeat for health check.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "multicast",
+        "translation": "多播",
+        "pronunciation": "/ˈmʌltiˌkæst/",
+        "example": "Multicast network traffic.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "broadcast",
+        "translation": "广播",
+        "pronunciation": "/ˈbrɔːdkæst/",
+        "example": "Broadcast message to all nodes.",
+        "tags": [
+            "programming",
+            "network"
+        ]
+    },
+    {
+        "word": "hydration",
+        "translation": "水合",
+        "pronunciation": "/haɪˈdreɪʃn/",
+        "example": "Client-side hydration after SSR.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "reconciliation",
+        "translation": "协调；调和",
+        "pronunciation": "/ˌrekənˌsɪliˈeɪʃn/",
+        "example": "React reconciliation algorithm.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "suspense",
+        "translation": "悬念；Suspense组件",
+        "pronunciation": "/səˈspens/",
+        "example": "React Suspense for lazy loading.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "portal",
+        "translation": "传送门",
+        "pronunciation": "/ˈpɔːrtl/",
+        "example": "React portal for modals.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "memo",
+        "translation": "记忆化",
+        "pronunciation": "/ˈmemoʊ/",
+        "example": "React.memo for optimization.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "lazy",
+        "translation": "懒加载",
+        "pronunciation": "/ˈleɪzi/",
+        "example": "Lazy load components.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "debounce",
+        "translation": "防抖",
+        "pronunciation": "/dɪˈbaʊns/",
+        "example": "Debounce the search input.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "polyfill",
+        "translation": "垫片",
+        "pronunciation": "/ˈpɑːlifɪl/",
+        "example": "Add polyfill for older browsers.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "transpile",
+        "translation": "转译",
+        "pronunciation": "/trænsˈpaɪl/",
+        "example": "Transpile TypeScript to JavaScript.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "minify",
+        "translation": "压缩",
+        "pronunciation": "/ˈmɪnɪfaɪ/",
+        "example": "Minify JavaScript for production.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "treeshaking",
+        "translation": "摇树优化",
+        "pronunciation": "/triː ˈʃeɪkɪŋ/",
+        "example": "Tree shaking removes unused code.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "bundler",
+        "translation": "打包工具",
+        "pronunciation": "/ˈbʌndlər/",
+        "example": "Webpack is a module bundler.",
+        "tags": [
+            "programming",
+            "frontend"
+        ]
+    },
+    {
+        "word": "middleware",
+        "translation": "中间件",
+        "pronunciation": "/ˈmɪdlˌwer/",
+        "example": "Add authentication middleware.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "controller",
+        "translation": "控制器",
+        "pronunciation": "/kənˈtroʊlər/",
+        "example": "Create a user controller.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "serialization",
+        "translation": "序列化",
+        "pronunciation": "/ˌsɪriəlaɪˈzeɪʃn/",
+        "example": "JSON serialization of objects.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "deserialization",
+        "translation": "反序列化",
+        "pronunciation": "/diːˌsɪriəlaɪˈzeɪʃn/",
+        "example": "Deserialization of request body.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "caching",
+        "translation": "缓存",
+        "pronunciation": "/ˈkæʃɪŋ/",
+        "example": "Implement response caching.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "pagination",
+        "translation": "分页",
+        "pronunciation": "/ˌpædʒɪˈneɪʃn/",
+        "example": "API pagination for large datasets.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "ratelimit",
+        "translation": "速率限制",
+        "pronunciation": "/reɪt ˈlɪmɪt/",
+        "example": "Implement rate limit on API.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "webhook",
+        "translation": "网络钩子",
+        "pronunciation": "/ˈwebhʊk/",
+        "example": "Configure webhook endpoint.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "idempotent",
+        "translation": "幂等的",
+        "pronunciation": "/ˌaɪdəmˈpoʊtənt/",
+        "example": "PUT requests should be idempotent.",
+        "tags": [
+            "programming",
+            "backend"
+        ]
+    },
+    {
+        "word": "immutable",
+        "translation": "不可变的",
+        "pronunciation": "/ɪˈmjuːtəbl/",
+        "example": "Immutable infrastructure deployment.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "provisioning",
+        "translation": "配置；供应",
+        "pronunciation": "/prəˈvɪʒənɪŋ/",
+        "example": "Server provisioning with Terraform.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "canary",
+        "translation": "金丝雀发布",
+        "pronunciation": "/kəˈneri/",
+        "example": "Canary deployment strategy.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "bluegreen",
+        "translation": "蓝绿部署",
+        "pronunciation": "/bluː ɡriːn/",
+        "example": "Blue-green deployment pattern.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "sidecar",
+        "translation": "边车模式",
+        "pronunciation": "/ˈsaɪdkɑːr/",
+        "example": "Sidecar container for logging.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "helm",
+        "translation": "Helm包管理器",
+        "pronunciation": "/helm/",
+        "example": "Deploy with Helm charts.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "istio",
+        "translation": "Istio服务网格",
+        "pronunciation": "/ˈɪstioʊ/",
+        "example": "Istio service mesh configuration.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "observability",
+        "translation": "可观测性",
+        "pronunciation": "/əbˌzɜːrvəˈbɪləti/",
+        "example": "Improve system observability.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "runbook",
+        "translation": "运维手册",
+        "pronunciation": "/ˈrʌnbʊk/",
+        "example": "Follow the incident runbook.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "postmortem",
+        "translation": "事后分析",
+        "pronunciation": "/poʊstˈmɔːrtəm/",
+        "example": "Write incident postmortem.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "fixture",
+        "translation": "测试夹具",
+        "pronunciation": "/ˈfɪkstʃər/",
+        "example": "Test fixture setup.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "assertion",
+        "translation": "断言",
+        "pronunciation": "/əˈsɜːrʃn/",
+        "example": "Add test assertion.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "spy",
+        "translation": "间谍函数",
+        "pronunciation": "/spaɪ/",
+        "example": "Create a spy on the method.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "snapshot",
+        "translation": "快照测试",
+        "pronunciation": "/ˈsnæpʃɑːt/",
+        "example": "Update snapshot tests.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "fuzz",
+        "translation": "模糊测试",
+        "pronunciation": "/fʌz/",
+        "example": "Fuzz testing for security.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "benchmark",
+        "translation": "基准测试",
+        "pronunciation": "/ˈbentʃmɑːrk/",
+        "example": "Run performance benchmark.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "flaky",
+        "translation": "不稳定的测试",
+        "pronunciation": "/ˈfleɪki/",
+        "example": "Fix flaky test failures.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "isolation",
+        "translation": "隔离",
+        "pronunciation": "/ˌaɪsəˈleɪʃn/",
+        "example": "Test isolation prevents side effects.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "parameterized",
+        "translation": "参数化",
+        "pronunciation": "/pəˈræmɪtəraɪzd/",
+        "example": "Parameterized test cases.",
+        "tags": [
+            "programming",
+            "testing"
+        ]
+    },
+    {
+        "word": "hashing",
+        "translation": "哈希",
+        "pronunciation": "/ˈhæʃɪŋ/",
+        "example": "Password hashing with bcrypt.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "sanitization",
+        "translation": "消毒；净化",
+        "pronunciation": "/ˌsænɪtaɪˈzeɪʃn/",
+        "example": "Input sanitization prevents XSS.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "escaping",
+        "translation": "转义",
+        "pronunciation": "/ɪˈskeɪpɪŋ/",
+        "example": "HTML escaping for security.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "rotation",
+        "translation": "轮换",
+        "pronunciation": "/roʊˈteɪʃn/",
+        "example": "Key rotation policy.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "principle",
+        "translation": "原则",
+        "pronunciation": "/ˈprɪnsəpl/",
+        "example": "Least privilege principle.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "penetration",
+        "translation": "渗透",
+        "pronunciation": "/ˌpenɪˈtreɪʃn/",
+        "example": "Penetration testing report.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "disclosure",
+        "translation": "披露",
+        "pronunciation": "/dɪsˈkloʊʒər/",
+        "example": "Responsible disclosure policy.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "mitigation",
+        "translation": "缓解",
+        "pronunciation": "/ˌmɪtɪˈɡeɪʃn/",
+        "example": "Risk mitigation strategy.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "hardening",
+        "translation": "加固",
+        "pronunciation": "/ˈhɑːrdənɪŋ/",
+        "example": "Server hardening checklist.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "compliance",
+        "translation": "合规",
+        "pronunciation": "/kəmˈplaɪəns/",
+        "example": "GDPR compliance requirements.",
+        "tags": [
+            "programming",
+            "security"
+        ]
+    },
+    {
+        "word": "coupling",
+        "translation": "耦合",
+        "pronunciation": "/ˈkʌplɪŋ/",
+        "example": "Reduce coupling between modules.",
+        "tags": [
+            "programming",
+            "architecture"
+        ]
+    },
+    {
+        "word": "cohesion",
+        "translation": "内聚",
+        "pronunciation": "/koʊˈhiːʒn/",
+        "example": "High cohesion in class design.",
+        "tags": [
+            "programming",
+            "architecture"
+        ]
+    },
+    {
+        "word": "composition",
+        "translation": "组合",
+        "pronunciation": "/ˌkɑːmpəˈzɪʃn/",
+        "example": "Composition over inheritance.",
+        "tags": [
+            "programming",
+            "design-patterns"
+        ]
+    },
+    {
+        "word": "refactoring",
+        "translation": "重构",
+        "pronunciation": "/riːˈfæktərɪŋ/",
+        "example": "Code refactoring improves quality.",
+        "tags": [
+            "programming",
+            "methodology"
+        ]
+    },
+    {
+        "word": "linting",
+        "translation": "代码检查",
+        "pronunciation": "/ˈlɪntɪŋ/",
+        "example": "Linting catches code issues.",
+        "tags": [
+            "programming",
+            "tooling"
+        ]
+    },
+    {
+        "word": "profiling",
+        "translation": "性能分析",
+        "pronunciation": "/ˈproʊfaɪlɪŋ/",
+        "example": "CPU profiling for optimization.",
+        "tags": [
+            "programming",
+            "performance"
+        ]
+    },
+    {
+        "word": "instrumentation",
+        "translation": "埋点；插桩",
+        "pronunciation": "/ˌɪnstrəmenˈteɪʃn/",
+        "example": "Add instrumentation for metrics.",
+        "tags": [
+            "programming",
+            "monitoring"
+        ]
+    },
+    {
+        "word": "telemetry",
+        "translation": "遥测",
+        "pronunciation": "/təˈlemətri/",
+        "example": "Collect telemetry data.",
+        "tags": [
+            "programming",
+            "monitoring"
+        ]
+    },
+    {
+        "word": "federation",
+        "translation": "联邦",
+        "pronunciation": "/ˌfedəˈreɪʃn/",
+        "example": "GraphQL federation architecture.",
+        "tags": [
+            "programming",
+            "architecture"
+        ]
+    },
+    {
+        "word": "microservices",
+        "translation": "微服务",
+        "pronunciation": "/ˌmaɪkroʊˈsɜːrvɪsɪz/",
+        "example": "Microservices architecture design.",
+        "tags": [
+            "programming",
+            "architecture"
+        ]
+    },
+    {
+        "word": "containerization",
+        "translation": "容器化",
+        "pronunciation": "/kənˌteɪnəraɪˈzeɪʃn/",
+        "example": "Application containerization with Docker.",
+        "tags": [
+            "programming",
+            "devops"
+        ]
+    },
+    {
+        "word": "monorepo",
+        "translation": "单仓库",
+        "pronunciation": "/ˈmɑːnoʊˌrepoʊ/",
+        "example": "Monorepo for multiple packages.",
+        "tags": [
+            "programming",
+            "tooling"
+        ]
+    },
+    {
+        "word": "lerna",
+        "translation": "Lerna工具",
+        "pronunciation": "/ˈlɜːrnə/",
+        "example": "Lerna manages monorepo.",
+        "tags": [
+            "programming",
+            "tooling"
+        ]
+    },
+    {
+        "word": "turborepo",
+        "translation": "Turborepo工具",
+        "pronunciation": "/ˈtɜːrboʊˌrepoʊ/",
+        "example": "Turborepo for build caching.",
+        "tags": [
+            "programming",
+            "tooling"
+        ]
+    },
+    {
+        "word": "pnpm",
+        "translation": "pnpm包管理器",
+        "pronunciation": "/piː en piː em/",
+        "example": "Use pnpm for faster installs.",
+        "tags": [
+            "programming",
+            "tooling"
+        ]
+    },
+    {
+        "word": "bun",
+        "translation": "Bun运行时",
+        "pronunciation": "/bʌn/",
+        "example": "Bun is a fast JavaScript runtime.",
+        "tags": [
+            "programming",
+            "runtime"
+        ]
+    },
+    {
+        "word": "deno",
+        "translation": "Deno运行时",
+        "pronunciation": "/ˈdiːnoʊ/",
+        "example": "Deno runtime for TypeScript.",
+        "tags": [
+            "programming",
+            "runtime"
+        ]
+    },
+    {
+        "word": "declarative",
+        "translation": "声明式的",
+        "pronunciation": "/dɪˈklærətɪv/",
+        "example": "Declarative programming style.",
+        "tags": [
+            "programming",
+            "paradigm"
+        ]
     }
 ]
